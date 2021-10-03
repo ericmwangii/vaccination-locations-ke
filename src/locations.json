@@ -1,0 +1,5644 @@
+[
+  {
+    "County": "BARINGO",
+    "Sub-County": "Baringo central",
+    "Health_Facility_Name": "Baringo county Referral hospital",
+    "latitude": 0.4852464,
+    "longitude": 35.7420833
+  },
+  {
+    "County": "BARINGO",
+    "Sub-County": "Baringo North",
+    "Health_Facility_Name": "Kabartonjo sub county hospital",
+    "latitude": 0.6331728,
+    "longitude": 35.7966307
+  },
+  {
+    "County": "BARINGO",
+    "Sub-County": "Baringo South/marigat",
+    "Health_Facility_Name": "Marigat sub county hospital",
+    "latitude": 0.4694721,
+    "longitude": 35.9832743
+  },
+  {
+    "County": "BARINGO",
+    "Sub-County": "Eldama ravine sub county",
+    "Health_Facility_Name": "Eldama ravine sub county hospital",
+    "latitude": 0.0463726,
+    "longitude": 35.7245967
+  },
+  {
+    "County": "BARINGO",
+    "Sub-County": "Mogotio sub county",
+    "Health_Facility_Name": "Mogotio sub county hospital",
+    "latitude": -0.0207658,
+    "longitude": 35.9560546
+  },
+  {
+    "County": "BARINGO",
+    "Sub-County": "Tiaty east sub county",
+    "Health_Facility_Name": "Tangulbei sub county hospital",
+    "latitude": 0.806459,
+    "longitude": 36.281479
+  },
+  {
+    "County": "BARINGO",
+    "Sub-County": "Tiaty west sub county",
+    "Health_Facility_Name": "Chemolingot sub county hospital",
+    "latitude": 0.9879072,
+    "longitude": 35.9723537
+  },
+  {
+    "County": "BOMET",
+    "Sub-County": "Bomet Central",
+    "Health_Facility_Name": "Bomet H.C",
+    "latitude": -0.7777854,
+    "longitude": 35.3356518
+  },
+  {
+    "County": "BOMET",
+    "Sub-County": "Bomet Central",
+    "Health_Facility_Name": "Kapkoros SCH",
+    "latitude": -0.6693783,
+    "longitude": 35.3122687
+  },
+  {
+    "County": "BOMET",
+    "Sub-County": "Bomet Central",
+    "Health_Facility_Name": "Tenwek Mission Hospital",
+    "latitude": -0.7438096,
+    "longitude": 35.3597207
+  },
+  {
+    "County": "BOMET",
+    "Sub-County": "Bomet East",
+    "Health_Facility_Name": "Longisa CRH",
+    "latitude": -0.8605925,
+    "longitude": 35.3911901
+  },
+  {
+    "County": "BOMET",
+    "Sub-County": "Bomet East",
+    "Health_Facility_Name": "Tegat SCH",
+    "latitude": -0.3864015,
+    "longitude": 35.2114204
+  },
+  {
+    "County": "BOMET",
+    "Sub-County": "Chepalungu",
+    "Health_Facility_Name": "Sigor SCH",
+    "latitude": -0.9189153,
+    "longitude": 35.2995276
+  },
+  {
+    "County": "BOMET",
+    "Sub-County": "Chepalungu",
+    "Health_Facility_Name": "Siongiroi HC",
+    "latitude": -0.8933397,
+    "longitude": 35.2107255
+  },
+  {
+    "County": "BOMET",
+    "Sub-County": "Konoin",
+    "Health_Facility_Name": "Mogogosiek HC",
+    "latitude": -0.6183918,
+    "longitude": 35.2732123
+  },
+  {
+    "County": "BOMET",
+    "Sub-County": "Konoin",
+    "Health_Facility_Name": "Cheptalal SCH",
+    "latitude": -0.6119518,
+    "longitude": 35.3747947
+  },
+  {
+    "County": "BOMET",
+    "Sub-County": "Sotik",
+    "Health_Facility_Name": "Sotik HC",
+    "latitude": 38.8860146,
+    "longitude": -77.0213921
+  },
+  {
+    "County": "BOMET",
+    "Sub-County": "Sotik",
+    "Health_Facility_Name": "Ndanai SCH",
+    "latitude": -0.8382459,
+    "longitude": 35.0958633
+  },
+  {
+    "County": "BOMET",
+    "Sub-County": "Sotik",
+    "Health_Facility_Name": "Kaplong Mission Hospital",
+    "latitude": -0.6767592,
+    "longitude": 35.1387301
+  },
+  {
+    "County": "BOMET",
+    "Sub-County": "Sotik",
+    "Health_Facility_Name": "Kipsonoi HC",
+    "latitude": -0.7204091,
+    "longitude": 35.2203419
+  },
+  {
+    "County": "BUNGOMA",
+    "Sub-County": "Bumula",
+    "Health_Facility_Name": "Bumula Sub County Hospital",
+    "latitude": 0.5506835,
+    "longitude": 34.4530968
+  },
+  {
+    "County": "BUNGOMA",
+    "Sub-County": "Kabuchai",
+    "Health_Facility_Name": "Chwele Sub-County Hospital",
+    "latitude": 0.7358836,
+    "longitude": 34.5777565
+  },
+  {
+    "County": "BUNGOMA",
+    "Sub-County": "Kanduyi",
+    "Health_Facility_Name": "Bungoma County Referral Hospital",
+    "latitude": 0.5730537,
+    "longitude": 34.5602382
+  },
+  {
+    "County": "BUNGOMA",
+    "Sub-County": "Kanduyi",
+    "Health_Facility_Name": "St. Damiano Mission Hospital",
+    "latitude": 0.5503509,
+    "longitude": 34.5577888
+  },
+  {
+    "County": "BUNGOMA",
+    "Sub-County": "Kanduyi",
+    "Health_Facility_Name": "Elgon View Hospital",
+    "latitude": 0.477451,
+    "longitude": 35.264466
+  },
+  {
+    "County": "BUNGOMA",
+    "Sub-County": "Kanduyi",
+    "Health_Facility_Name": "Bungoma west Hospital",
+    "latitude": 0.5928977,
+    "longitude": 34.5517564
+  },
+  {
+    "County": "BUNGOMA",
+    "Sub-County": "Kanduyi",
+    "Health_Facility_Name": "LifeCare Hospital",
+    "latitude": 32.817287,
+    "longitude": -96.849184
+  },
+  {
+    "County": "BUNGOMA",
+    "Sub-County": "Kanduyi",
+    "Health_Facility_Name": "Fountain Health Care",
+    "latitude": 29.6795152,
+    "longitude": -95.5981026
+  },
+  {
+    "County": "BUNGOMA",
+    "Sub-County": "Kanduyi",
+    "Health_Facility_Name": "Khalaba Medical Centre",
+    "latitude": 0.4268591,
+    "longitude": 34.548512
+  },
+  {
+    "County": "BUNGOMA",
+    "Sub-County": "Kimilili",
+    "Health_Facility_Name": "Kimilili Sub-County Hospital",
+    "latitude": 0.789124,
+    "longitude": 34.7129826
+  },
+  {
+    "County": "BUNGOMA",
+    "Sub-County": "Kimilili",
+    "Health_Facility_Name": "Korry Family Hospital",
+    "latitude": 0.580758,
+    "longitude": 34.5582277
+  },
+  {
+    "County": "BUNGOMA",
+    "Sub-County": "Kimilili",
+    "Health_Facility_Name": "Dreamland medical Centre",
+    "latitude": 32.8987923,
+    "longitude": -79.9866635
+  },
+  {
+    "County": "BUNGOMA",
+    "Sub-County": "Mt. Elgon",
+    "Health_Facility_Name": "Cheptais Sub-County Hospital",
+    "latitude": 37.7626459,
+    "longitude": -122.4587106
+  },
+  {
+    "County": "BUNGOMA",
+    "Sub-County": "Mt.Elgon",
+    "Health_Facility_Name": "Mt. Elgon Sub-County Hospital",
+    "latitude": 1.1492924,
+    "longitude": 34.5417619
+  },
+  {
+    "County": "BUNGOMA",
+    "Sub-County": "Sirisia",
+    "Health_Facility_Name": "Sirisia Sub-County Hospital",
+    "latitude": 0.7527514,
+    "longitude": 34.5080825
+  },
+  {
+    "County": "BUNGOMA",
+    "Sub-County": "Tongaren",
+    "Health_Facility_Name": "Naitiri Sub-County Hospital",
+    "latitude": 0.7561216,
+    "longitude": 34.8905675
+  },
+  {
+    "County": "BUNGOMA",
+    "Sub-County": "Webuye East",
+    "Health_Facility_Name": "Sinoko Sub-County Hospital",
+    "latitude": 41.4314343,
+    "longitude": -71.4966243
+  },
+  {
+    "County": "BUNGOMA",
+    "Sub-County": "Webuye West",
+    "Health_Facility_Name": "Bokoli Sub-County Hospital",
+    "latitude": 0.7107343,
+    "longitude": 34.6613446
+  },
+  {
+    "County": "BUNGOMA",
+    "Sub-County": "Webuye West",
+    "Health_Facility_Name": "Webuye County Hospital",
+    "latitude": 0.6129858,
+    "longitude": 34.7646029
+  },
+  {
+    "County": "BUNGOMA",
+    "Sub-County": "Webuye West",
+    "Health_Facility_Name": "Lugulu Mission Hospital",
+    "latitude": 0.6616624,
+    "longitude": 34.7530167
+  },
+  {
+    "County": "BUSIA",
+    "Sub-County": "Bunyala",
+    "Health_Facility_Name": "Port-Victoria Sub-County Hospital",
+    "latitude": 0.0973542,
+    "longitude": 33.9755756
+  },
+  {
+    "County": "BUSIA",
+    "Sub-County": "Bunyala",
+    "Health_Facility_Name": "Mukhobola Health Centre",
+    "latitude": 0.0787282,
+    "longitude": 34.0297651
+  },
+  {
+    "County": "BUSIA",
+    "Sub-County": "Butula",
+    "Health_Facility_Name": "Khunyangu Sub-County Hospital",
+    "latitude": 0.3376493,
+    "longitude": 34.2581254
+  },
+  {
+    "County": "BUSIA",
+    "Sub-County": "Butula",
+    "Health_Facility_Name": "Bumala B Health Centre",
+    "latitude": 0.303687,
+    "longitude": 34.2020662
+  },
+  {
+    "County": "BUSIA",
+    "Sub-County": "Matayos",
+    "Health_Facility_Name": "Busia County Referral Hospital",
+    "latitude": 0.4600906,
+    "longitude": 34.1047591
+  },
+  {
+    "County": "BUSIA",
+    "Sub-County": "Matayos",
+    "Health_Facility_Name": "Matayos Health Centre",
+    "latitude": 0.3617923,
+    "longitude": 34.1684918
+  },
+  {
+    "County": "BUSIA",
+    "Sub-County": "Nambale",
+    "Health_Facility_Name": "Nambale Sub-County Hospital",
+    "latitude": 0.4554826,
+    "longitude": 34.2388058
+  },
+  {
+    "County": "BUSIA",
+    "Sub-County": "Nambale",
+    "Health_Facility_Name": "Lupida Health Centre",
+    "latitude": 0.5771337,
+    "longitude": 34.3526149
+  },
+  {
+    "County": "BUSIA",
+    "Sub-County": "Samia",
+    "Health_Facility_Name": "Sio Port Hospital",
+    "latitude": 0.225315,
+    "longitude": 34.0213178
+  },
+  {
+    "County": "BUSIA",
+    "Sub-County": "Samia",
+    "Health_Facility_Name": "Nangina Holy Family",
+    "latitude": 0.2772856,
+    "longitude": 34.1051352
+  },
+  {
+    "County": "BUSIA",
+    "Sub-County": "Teso North",
+    "Health_Facility_Name": "Kocholya Sub-County Hospital",
+    "latitude": 41.8727197,
+    "longitude": -87.6737256
+  },
+  {
+    "County": "BUSIA",
+    "Sub-County": "Teso North",
+    "Health_Facility_Name": "Ang'urai Health Centre",
+    "latitude": 41.486235,
+    "longitude": -71.532032
+  },
+  {
+    "County": "BUSIA",
+    "Sub-County": "Teso North",
+    "Health_Facility_Name": "Malaba Health Centre",
+    "latitude": 28.0011741,
+    "longitude": -80.6087157
+  },
+  {
+    "County": "BUSIA",
+    "Sub-County": "Teso South",
+    "Health_Facility_Name": "Amukura Hospital",
+    "latitude": 35.576583,
+    "longitude": -82.549222
+  },
+  {
+    "County": "BUSIA",
+    "Sub-County": "Teso South",
+    "Health_Facility_Name": "Alupe Isolation Centre Hospital",
+    "latitude": 42.3396063,
+    "longitude": -71.104982
+  },
+  {
+    "County": "ELGEYO\nMARAKWET",
+    "Sub-County": "Keiyo North",
+    "Health_Facility_Name": "Tambach Sub-County Hospital",
+    "latitude": 0.5922319,
+    "longitude": 35.5219122
+  },
+  {
+    "County": "ELGEYO\nMARAKWET",
+    "Sub-County": "Keiyo North",
+    "Health_Facility_Name": "Chegilet Health Centre",
+    "latitude": 0.8254421,
+    "longitude": 35.6005381
+  },
+  {
+    "County": "ELGEYO\nMARAKWET",
+    "Sub-County": "Keiyo North",
+    "Health_Facility_Name": "Iten County Referral Hospital",
+    "latitude": 0.6765321,
+    "longitude": 35.5070822
+  },
+  {
+    "County": "ELGEYO\nMARAKWET",
+    "Sub-County": "Keiyo South",
+    "Health_Facility_Name": "Kamwosor Sub-County Hospital",
+    "latitude": 0.1949834,
+    "longitude": 35.5698898
+  },
+  {
+    "County": "ELGEYO\nMARAKWET",
+    "Sub-County": "Keiyo South",
+    "Health_Facility_Name": "Kocholwo Sub-County Hospital",
+    "latitude": 1.0498237,
+    "longitude": 35.4781926
+  },
+  {
+    "County": "ELGEYO\nMARAKWET",
+    "Sub-County": "Keiyo South",
+    "Health_Facility_Name": "Kaptarakwa Sub-County Hospital",
+    "latitude": 0.464342,
+    "longitude": 35.5429628
+  },
+  {
+    "County": "ELGEYO\nMARAKWET",
+    "Sub-County": "Keiyo South",
+    "Health_Facility_Name": "Chepkorio H/C (Sub-County DVI store)",
+    "latitude": 32.7780031,
+    "longitude": -96.8143196
+  },
+  {
+    "County": "ELGEYO\nMARAKWET",
+    "Sub-County": "Keiyo south",
+    "Health_Facility_Name": "Muskut Health Center",
+    "latitude": 23.5979707,
+    "longitude": 58.4012936
+  },
+  {
+    "County": "ELGEYO\nMARAKWET",
+    "Sub-County": "Keiyo south",
+    "Health_Facility_Name": "Flourspar Health Center",
+    "latitude": 43.6494305,
+    "longitude": -79.3847535
+  },
+  {
+    "County": "ELGEYO\nMARAKWET",
+    "Sub-County": "Keiyo south",
+    "Health_Facility_Name": "Biretwo Health Center",
+    "latitude": 0.5381415,
+    "longitude": 35.5584
+  },
+  {
+    "County": "ELGEYO\nMARAKWET",
+    "Sub-County": "Marakwet East",
+    "Health_Facility_Name": "Chesoi H/C (Sub-County DVI store)",
+    "latitude": 32.7780031,
+    "longitude": -96.8143196
+  },
+  {
+    "County": "ELGEYO\nMARAKWET",
+    "Sub-County": "Marakwet East",
+    "Health_Facility_Name": "Tot Sub-County Hospital",
+    "latitude": 30.2839051,
+    "longitude": -95.4775991
+  },
+  {
+    "County": "ELGEYO\nMARAKWET",
+    "Sub-County": "Marakwet East",
+    "Health_Facility_Name": "Kapyego Health Centre",
+    "latitude": 1.1454455,
+    "longitude": 35.4797023
+  },
+  {
+    "County": "ELGEYO\nMARAKWET",
+    "Sub-County": "Marakwet West",
+    "Health_Facility_Name": "Chebiemit Sub-County Hospital",
+    "latitude": 0.8532402,
+    "longitude": 35.5023204
+  },
+  {
+    "County": "ELGEYO\nMARAKWET",
+    "Sub-County": "Marakwet West",
+    "Health_Facility_Name": "AIC Kapsowar Hospital",
+    "latitude": 0.9817435,
+    "longitude": 35.5597705
+  },
+  {
+    "County": "ELGEYO\nMARAKWET",
+    "Sub-County": "Marakwet West",
+    "Health_Facility_Name": "Kapcherop Health Centre",
+    "latitude": 1.0488145,
+    "longitude": 35.3241917
+  },
+  {
+    "County": "ELGEYO\nMARAKWET",
+    "Sub-County": "Marakwet West",
+    "Health_Facility_Name": "Arror Health Centre",
+    "latitude": 0.951195,
+    "longitude": 35.6201203
+  },
+  {
+    "County": "EMBU",
+    "Sub-County": "Manyatta",
+    "Health_Facility_Name": "Embu level 5 Hospital",
+    "latitude": -0.5228626,
+    "longitude": 37.453178
+  },
+  {
+    "County": "EMBU",
+    "Sub-County": "Manyatta",
+    "Health_Facility_Name": "Kairuri health centre",
+    "latitude": -0.429846,
+    "longitude": 37.478431
+  },
+  {
+    "County": "EMBU",
+    "Sub-County": "Manyatta",
+    "Health_Facility_Name": "Embu G.K prison Majimbo",
+    "latitude": -0.5513931,
+    "longitude": 37.4658612
+  },
+  {
+    "County": "EMBU",
+    "Sub-County": "Mbeere North",
+    "Health_Facility_Name": "Mbeere subcounty Hospital",
+    "latitude": 39.3299013,
+    "longitude": -76.6205177
+  },
+  {
+    "County": "EMBU",
+    "Sub-County": "Mbeere North",
+    "Health_Facility_Name": "Ishiara sub county Hospital",
+    "latitude": -0.4547835,
+    "longitude": 37.7848732
+  },
+  {
+    "County": "EMBU",
+    "Sub-County": "Mbeere South",
+    "Health_Facility_Name": "Embu Children’s hospital-Tenri",
+    "latitude": -0.5420349,
+    "longitude": 37.4655509
+  },
+  {
+    "County": "EMBU",
+    "Sub-County": "Mbeere South",
+    "Health_Facility_Name": "Imara-Medi plus Hospital",
+    "latitude": -0.5364015,
+    "longitude": 37.451464
+  },
+  {
+    "County": "EMBU",
+    "Sub-County": "Runyenjes",
+    "Health_Facility_Name": "Kiritiri",
+    "latitude": -0.6859545,
+    "longitude": 37.6479757
+  },
+  {
+    "County": "EMBU",
+    "Sub-County": "Runyenjes",
+    "Health_Facility_Name": "Gategi",
+    "latitude": -0.7609017,
+    "longitude": 37.4307827
+  },
+  {
+    "County": "EMBU",
+    "Sub-County": "Runyenjes",
+    "Health_Facility_Name": "Kiambere H/C",
+    "latitude": -0.684527,
+    "longitude": 37.792961
+  },
+  {
+    "County": "EMBU",
+    "Sub-County": "Runyenjes",
+    "Health_Facility_Name": "Runyenjes sub county Hospital",
+    "latitude": -0.4249974,
+    "longitude": 37.5724411
+  },
+  {
+    "County": "EMBU",
+    "Sub-County": "Runyenjes",
+    "Health_Facility_Name": "Kianjokoma Health center",
+    "latitude": -0.3973013,
+    "longitude": 37.5031836
+  },
+  {
+    "County": "EMBU",
+    "Sub-County": "Runyenjes",
+    "Health_Facility_Name": "Karurumo Health Center",
+    "latitude": -0.4223518,
+    "longitude": 37.5721011
+  },
+  {
+    "County": "EMBU",
+    "Sub-County": "Runyenjes",
+    "Health_Facility_Name": "Kyeni- Consolata Hospital",
+    "latitude": -0.4128277,
+    "longitude": 37.5873899
+  },
+  {
+    "County": "EMBU",
+    "Sub-County": "Runyenjes",
+    "Health_Facility_Name": "Kigumo H/C",
+    "latitude": -0.4173028,
+    "longitude": 37.6373316
+  },
+  {
+    "County": "GARISSA",
+    "Sub-County": "Ifo Refugee Camp",
+    "Health_Facility_Name": "Ifo Hospital",
+    "latitude": 26.5983394,
+    "longitude": -80.0917783
+  },
+  {
+    "County": "GARISSA",
+    "Sub-County": "Balambala",
+    "Health_Facility_Name": "Balambala Sub-County Hospital",
+    "latitude": 0.0869555,
+    "longitude": 39.1127352
+  },
+  {
+    "County": "GARISSA",
+    "Sub-County": "Dadaab",
+    "Health_Facility_Name": "Dadaab Sub-County Hospital",
+    "latitude": 0.0574036,
+    "longitude": 40.3068678
+  },
+  {
+    "County": "GARISSA",
+    "Sub-County": "Dagahaley Refugee Camp",
+    "Health_Facility_Name": "Dagahaley Hospital",
+    "latitude": 0.1870389,
+    "longitude": 40.2970724
+  },
+  {
+    "County": "GARISSA",
+    "Sub-County": "Fafi",
+    "Health_Facility_Name": "Bura sub county Hospital",
+    "latitude": 37.6604402,
+    "longitude": -91.5692851
+  },
+  {
+    "County": "GARISSA",
+    "Sub-County": "Garissa",
+    "Health_Facility_Name": "Garissa County Referral Hospital",
+    "latitude": -0.4488549,
+    "longitude": 39.6526044
+  },
+  {
+    "County": "GARISSA",
+    "Sub-County": "Hagadera Refugee Camp",
+    "Health_Facility_Name": "Hagadera Hospital",
+    "latitude": 0.0081777,
+    "longitude": 40.3719839
+  },
+  {
+    "County": "GARISSA",
+    "Sub-County": "Hulugho",
+    "Health_Facility_Name": "Hulugho Sub-County Hospital",
+    "latitude": -1.0590431,
+    "longitude": 41.0797172
+  },
+  {
+    "County": "GARISSA",
+    "Sub-County": "Ijara",
+    "Health_Facility_Name": "Ijara sub county Hospital",
+    "latitude": 37.0076927,
+    "longitude": -98.4889183
+  },
+  {
+    "County": "GARISSA",
+    "Sub-County": "Lagdera",
+    "Health_Facility_Name": "Modogashe sub county Hospital",
+    "latitude": 0.7327904,
+    "longitude": 39.1857032
+  },
+  {
+    "County": "HOMA BAY",
+    "Sub-County": "Homa Bay Town",
+    "Health_Facility_Name": "Homa Bay County Teaching & Referral Hospital",
+    "latitude": -0.5330723,
+    "longitude": 34.4615869
+  },
+  {
+    "County": "HOMA BAY",
+    "Sub-County": "Homa Bay Town",
+    "Health_Facility_Name": "Marindi Sub County Hospital",
+    "latitude": -3.2262301,
+    "longitude": 40.1249463
+  },
+  {
+    "County": "HOMA BAY",
+    "Sub-County": "Ndhiwa",
+    "Health_Facility_Name": "Ndhiwa Sub County Hospital",
+    "latitude": -0.728449,
+    "longitude": 34.3660549
+  },
+  {
+    "County": "HOMA BAY",
+    "Sub-County": "Rachuonyo East",
+    "Health_Facility_Name": "Kabondo Sub County Hospital",
+    "latitude": -0.4477504,
+    "longitude": 34.8913824
+  },
+  {
+    "County": "HOMA BAY",
+    "Sub-County": "Rachuonyo North (Karachuonyo)",
+    "Health_Facility_Name": "Kendu Sub County Hospital",
+    "latitude": 35.0557276,
+    "longitude": -106.5815709
+  },
+  {
+    "County": "HOMA BAY",
+    "Sub-County": "Rachuonyo North (Karachuonyo)",
+    "Health_Facility_Name": "Kendu Adventist Hospital",
+    "latitude": -0.4017081,
+    "longitude": 34.6648567
+  },
+  {
+    "County": "HOMA BAY",
+    "Sub-County": "Rachuonyo North (Karachuonyo)",
+    "Health_Facility_Name": "Kandiege L 4 Hospital",
+    "latitude": 36.043221,
+    "longitude": -95.9536156
+  },
+  {
+    "County": "HOMA BAY",
+    "Sub-County": "Rachuonyo South",
+    "Health_Facility_Name": "Rachuonyo Sub County Hospital",
+    "latitude": 34.7208528,
+    "longitude": -86.5804893
+  },
+  {
+    "County": "HOMA BAY",
+    "Sub-County": "Rangwe",
+    "Health_Facility_Name": "Rangwe Sub County Hospital",
+    "latitude": -0.6008645,
+    "longitude": 34.5811146
+  },
+  {
+    "County": "HOMA BAY",
+    "Sub-County": "Suba North (Mbita)",
+    "Health_Facility_Name": "Mbita Sub County Hospital",
+    "latitude": -0.4228748,
+    "longitude": 34.2080882
+  },
+  {
+    "County": "HOMA BAY",
+    "Sub-County": "Suba North (Mbita)",
+    "Health_Facility_Name": "Ogongo L 4 Hospital",
+    "latitude": 36.043221,
+    "longitude": -95.9536156
+  },
+  {
+    "County": "HOMA BAY",
+    "Sub-County": "Suba South",
+    "Health_Facility_Name": "Suba Sub County Hospital",
+    "latitude": -0.5376996,
+    "longitude": 34.1680141
+  },
+  {
+    "County": "HOMA BAY",
+    "Sub-County": "Suba South",
+    "Health_Facility_Name": "Magunga L 4 Hospital",
+    "latitude": 36.043221,
+    "longitude": -95.9536156
+  },
+  {
+    "County": "HOMA BAY",
+    "Sub-County": "Suba South",
+    "Health_Facility_Name": "Nyandiwa L.4 Hospital",
+    "latitude": -0.7256695,
+    "longitude": 34.0543965
+  },
+  {
+    "County": "ISIOLO",
+    "Sub-County": "Isiolo sub county",
+    "Health_Facility_Name": "Hospital_isiolo county Referral hospital",
+    "latitude": 0.3549956,
+    "longitude": 37.5864313
+  },
+  {
+    "County": "KAJIADO",
+    "Sub-County": "Kajiado Central",
+    "Health_Facility_Name": "Ilbisil Health Centre",
+    "latitude": -2.0980751,
+    "longitude": 36.7819505
+  },
+  {
+    "County": "KAJIADO",
+    "Sub-County": "Kajiado Central",
+    "Health_Facility_Name": "Namanga Health Centre",
+    "latitude": -2.5520935,
+    "longitude": 36.7838976
+  },
+  {
+    "County": "KAJIADO",
+    "Sub-County": "Kajiado Central",
+    "Health_Facility_Name": "Kajiado County Referral Hospital",
+    "latitude": -1.8575039,
+    "longitude": 36.7719758
+  },
+  {
+    "County": "KAJIADO",
+    "Sub-County": "Kajiado East",
+    "Health_Facility_Name": "Kitengela Sub-County Hospital",
+    "latitude": -1.4702776,
+    "longitude": 36.9541888
+  },
+  {
+    "County": "KAJIADO",
+    "Sub-County": "Kajiado East",
+    "Health_Facility_Name": "Mashuru Health Centre",
+    "latitude": -2.039246,
+    "longitude": 37.1231788
+  },
+  {
+    "County": "KAJIADO",
+    "Sub-County": "Kajiado North",
+    "Health_Facility_Name": "Ngong Sub-County Hospital",
+    "latitude": -1.3650008,
+    "longitude": 36.6542557
+  },
+  {
+    "County": "KAJIADO",
+    "Sub-County": "Kajiado North",
+    "Health_Facility_Name": "Ongata Rongai Sub-County Hospital",
+    "latitude": -1.3899071,
+    "longitude": 36.7469984
+  },
+  {
+    "County": "KAJIADO",
+    "Sub-County": "Kajiado South",
+    "Health_Facility_Name": "Oloitokitok Sub-County Hospital",
+    "latitude": -2.9243819,
+    "longitude": 37.5048107
+  },
+  {
+    "County": "KAJIADO",
+    "Sub-County": "Kajiado West",
+    "Health_Facility_Name": "Magadi Hospital",
+    "latitude": -1.902992,
+    "longitude": 36.286281
+  },
+  {
+    "County": "KAJIADO",
+    "Sub-County": "Kajiado West",
+    "Health_Facility_Name": "Oltepesi Dispensary",
+    "latitude": -1.5644065,
+    "longitude": 36.4310251
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Butere",
+    "Health_Facility_Name": "Butere County Hospital",
+    "latitude": 40.6552459,
+    "longitude": -73.945734
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Butere",
+    "Health_Facility_Name": "Manyala Sub County Hospital",
+    "latitude": 41.4314343,
+    "longitude": -71.4966243
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Butere",
+    "Health_Facility_Name": "Imanga Health Centre",
+    "latitude": 0.2198155,
+    "longitude": 34.4918988
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Butere",
+    "Health_Facility_Name": "Shiraha Health Centre",
+    "latitude": 0.1968952,
+    "longitude": 34.5706674
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Butere",
+    "Health_Facility_Name": "Lukohe Health Centre",
+    "latitude": -37.2010956,
+    "longitude": 174.9004586
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Butere",
+    "Health_Facility_Name": "Eshibimbi Health Centre",
+    "latitude": 0.2094063,
+    "longitude": 34.5962705
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Butere",
+    "Health_Facility_Name": "Eshimukoko Health Centre",
+    "latitude": 0.22,
+    "longitude": 34.49
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Butere",
+    "Health_Facility_Name": "Miranda Health Centre",
+    "latitude": 40.4054996,
+    "longitude": -86.8403089
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Butere",
+    "Health_Facility_Name": "Shikunga Health Centre",
+    "latitude": 0.1752336,
+    "longitude": 34.5445312
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Butere",
+    "Health_Facility_Name": "Mabole Health Centre",
+    "latitude": 55.3545529,
+    "longitude": -4.6811772
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Ikolomani",
+    "Health_Facility_Name": "Iguhu County Hospital",
+    "latitude": 0.161294,
+    "longitude": 34.7630307
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Ikolomani",
+    "Health_Facility_Name": "Kilingili Health Centre",
+    "latitude": -1.3055745,
+    "longitude": 38.15772
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Ikolomani",
+    "Health_Facility_Name": "Shibwe Su County Hospital",
+    "latitude": 41.4314343,
+    "longitude": -71.4966243
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Ikolomani",
+    "Health_Facility_Name": "Savane Dispensary",
+    "latitude": 0.1651112,
+    "longitude": 34.779603
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Khwisero",
+    "Health_Facility_Name": "Khwisero Model Health Centre",
+    "latitude": 0.1462093,
+    "longitude": 34.5860608
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Khwisero",
+    "Health_Facility_Name": "Mulwanda Health Centre",
+    "latitude": 36.1425227,
+    "longitude": -86.8014009
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Khwisero",
+    "Health_Facility_Name": "Mundoli Health Centre",
+    "latitude": 0.1096299,
+    "longitude": 34.5774159
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Khwisero",
+    "Health_Facility_Name": "Emutsesa Health Centre",
+    "latitude": 0.1462093,
+    "longitude": 34.5860608
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Khwisero",
+    "Health_Facility_Name": "Ekambuli Health Centre",
+    "latitude": 0.144413,
+    "longitude": 34.5289242
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Khwisero",
+    "Health_Facility_Name": "Namasoli Health Centre",
+    "latitude": 0.144413,
+    "longitude": 34.5289242
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Likuyani",
+    "Health_Facility_Name": "Likuyani Sub County Hospital",
+    "latitude": 0.6668495,
+    "longitude": 35.109084
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Likuyani",
+    "Health_Facility_Name": "Kongoni Health Centre",
+    "latitude": 0.74865,
+    "longitude": 35.1158754
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Likuyani",
+    "Health_Facility_Name": "Matunda Sub County Hospital",
+    "latitude": 36.2215302,
+    "longitude": -86.3278798
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Likuyani",
+    "Health_Facility_Name": "Mabusi Health Centre",
+    "latitude": 0.8961324,
+    "longitude": 35.0604361
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Lugari",
+    "Health_Facility_Name": "Lumakanda County Hospital",
+    "latitude": 0.6349549,
+    "longitude": 34.9761483
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Lugari",
+    "Health_Facility_Name": "Mautuma Sub County Hospital",
+    "latitude": 0.6511579,
+    "longitude": 34.8762111
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Lugari",
+    "Health_Facility_Name": "Chekalini Centre",
+    "latitude": 0.6281122,
+    "longitude": 34.8840557
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Lugari",
+    "Health_Facility_Name": "Koromaiti Health Centre",
+    "latitude": 0.6511579,
+    "longitude": 34.8762111
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Lugari",
+    "Health_Facility_Name": "Maturu Dispensary",
+    "latitude": 33.4655852,
+    "longitude": -112.1126335
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Lugari",
+    "Health_Facility_Name": "Matete Health Centre",
+    "latitude": 0.5651484,
+    "longitude": 34.8055941
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Lurambi",
+    "Health_Facility_Name": "County General Hospital",
+    "latitude": 34.5392478,
+    "longitude": -96.223835
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Lurambi",
+    "Health_Facility_Name": "GK Prisons (Satelite of CGH)",
+    "latitude": 32.2002948,
+    "longitude": -84.1303207
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Lurambi",
+    "Health_Facility_Name": "Elwesero Model Health Centre",
+    "latitude": 0.2951436,
+    "longitude": 34.7633117
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Lurambi",
+    "Health_Facility_Name": "Bukura RHDC",
+    "latitude": 35.7776188,
+    "longitude": -78.6387655
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Malava",
+    "Health_Facility_Name": "Malava County Hospital",
+    "latitude": 27.6617806,
+    "longitude": -80.3934384
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Malava",
+    "Health_Facility_Name": "Kuvasali Health Centre",
+    "latitude": 43.20528,
+    "longitude": -71.534885
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Malava",
+    "Health_Facility_Name": "Shamberere Health Centre",
+    "latitude": 0.3796954,
+    "longitude": 34.8474583
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Malava",
+    "Health_Facility_Name": "Shivanga Health Centre",
+    "latitude": 0.531693,
+    "longitude": 34.8465323
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Malava",
+    "Health_Facility_Name": "Chombeli Health Centre",
+    "latitude": 0.271395,
+    "longitude": 34.75321
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Matungu",
+    "Health_Facility_Name": "Matungu Sub County Hospital",
+    "latitude": 0.3867051,
+    "longitude": 34.4626657
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Matungu",
+    "Health_Facility_Name": "Khalaba Health Centre",
+    "latitude": 0.4268591,
+    "longitude": 34.548512
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Matungu",
+    "Health_Facility_Name": "Lung'anyiro Health Centre",
+    "latitude": 40.0054237,
+    "longitude": -75.1507198
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Matungu",
+    "Health_Facility_Name": "Mirere Health Centre",
+    "latitude": 0.437543,
+    "longitude": 34.4364621
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Matungu",
+    "Health_Facility_Name": "Indangalasia Dispensary",
+    "latitude": 0.3209273,
+    "longitude": 34.4031833
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Mumias East",
+    "Health_Facility_Name": "Shianda Health Centre",
+    "latitude": 0.321263,
+    "longitude": 34.569739
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Mumias East",
+    "Health_Facility_Name": "Lusheya Health Centre",
+    "latitude": 0.30443,
+    "longitude": 34.5361025
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Mumias East",
+    "Health_Facility_Name": "Khaunga Dispensary",
+    "latitude": 0.3769865,
+    "longitude": 34.5841023
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Mumias East",
+    "Health_Facility_Name": "Makunga RHDC",
+    "latitude": 0.3332218,
+    "longitude": 34.4877423
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Mumias West",
+    "Health_Facility_Name": "Mumias Level 4 Hospital",
+    "latitude": 0.3362546,
+    "longitude": 34.4828237
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Mumias West",
+    "Health_Facility_Name": "Bukaya Health Centre",
+    "latitude": 0.4066731,
+    "longitude": 33.1784534
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Mumias West",
+    "Health_Facility_Name": "Bungasi Health Centre",
+    "latitude": 0.3332218,
+    "longitude": 34.4877423
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Navakholo",
+    "Health_Facility_Name": "Navakholo Sub County Hospital",
+    "latitude": 0.4135506,
+    "longitude": 34.6828887
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Navakholo",
+    "Health_Facility_Name": "Bushiri Health Centre",
+    "latitude": 0.3527338,
+    "longitude": 34.6984099
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Navakholo",
+    "Health_Facility_Name": "Sivilie Health Centre",
+    "latitude": 0.4694242,
+    "longitude": 34.6967393
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Navakholo",
+    "Health_Facility_Name": "Kharanda Health Centre",
+    "latitude": 37.8371901,
+    "longitude": -122.2670282
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Shinyalu",
+    "Health_Facility_Name": "Shinyalu Model Health Centre",
+    "latitude": 0.2074985,
+    "longitude": 34.7750914
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Shinyalu",
+    "Health_Facility_Name": "Shamakhubu Health Centre",
+    "latitude": 0.2613097,
+    "longitude": 34.8403408
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Shinyalu",
+    "Health_Facility_Name": "Ileho Health Centre",
+    "latitude": 0.2167434,
+    "longitude": 34.9652606
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Shinyalu",
+    "Health_Facility_Name": "Shikusa Health Centre",
+    "latitude": 0.339395,
+    "longitude": 34.799351
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Shinyalu",
+    "Health_Facility_Name": "Ikuywa Dispensary",
+    "latitude": 0.2084477,
+    "longitude": 34.7809839
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Shinyalu",
+    "Health_Facility_Name": "Kambiri Health Centre",
+    "latitude": 0.2613097,
+    "longitude": 34.8403408
+  },
+  {
+    "County": "KAKAMEGA",
+    "Sub-County": "Shinyalu",
+    "Health_Facility_Name": "Mugomari Dispensary",
+    "latitude": 0.2186621,
+    "longitude": 34.7400011
+  },
+  {
+    "County": "KERICHO",
+    "Sub-County": "Ainamoi",
+    "Health_Facility_Name": "GK Prisons Dispensary Kericho",
+    "latitude": -0.3643837,
+    "longitude": 35.28373
+  },
+  {
+    "County": "KERICHO",
+    "Sub-County": "Ainamoi",
+    "Health_Facility_Name": "Kenegut Dispensary",
+    "latitude": -0.3206518,
+    "longitude": 35.2189682
+  },
+  {
+    "County": "KERICHO",
+    "Sub-County": "Ainamoi",
+    "Health_Facility_Name": "Ainamoi Health Centre",
+    "latitude": -0.3001881,
+    "longitude": 35.274685
+  },
+  {
+    "County": "KERICHO",
+    "Sub-County": "Ainamoi",
+    "Health_Facility_Name": "Manyoror Dispensary",
+    "latitude": -0.289613,
+    "longitude": 35.3294376
+  },
+  {
+    "County": "KERICHO",
+    "Sub-County": "Belgut",
+    "Health_Facility_Name": "Kabianga Health Centre",
+    "latitude": -0.4458706,
+    "longitude": 35.138089
+  },
+  {
+    "County": "KERICHO",
+    "Sub-County": "Belgut",
+    "Health_Facility_Name": "Kapsoit Dispensary",
+    "latitude": -0.3201205,
+    "longitude": 35.2148971
+  },
+  {
+    "County": "KERICHO",
+    "Sub-County": "Belgut",
+    "Health_Facility_Name": "Kapsuser",
+    "latitude": -0.4,
+    "longitude": 35.216667
+  },
+  {
+    "County": "KERICHO",
+    "Sub-County": "Belgut",
+    "Health_Facility_Name": "Seretut Dispensary",
+    "latitude": -0.3932982,
+    "longitude": 35.2081494
+  },
+  {
+    "County": "KERICHO",
+    "Sub-County": "Bureti",
+    "Health_Facility_Name": "Kipwastuiyo Health Centre",
+    "latitude": -0.616663,
+    "longitude": 35.1119803
+  },
+  {
+    "County": "KERICHO",
+    "Sub-County": "Bureti",
+    "Health_Facility_Name": "Cheborgei Health Centre",
+    "latitude": -0.5782423,
+    "longitude": 35.1434532
+  },
+  {
+    "County": "KERICHO",
+    "Sub-County": "Kipkelion East",
+    "Health_Facility_Name": "Momoniat Health Centre",
+    "latitude": -0.2331275,
+    "longitude": 35.5298155
+  },
+  {
+    "County": "KERICHO",
+    "Sub-County": "Kipkelion East",
+    "Health_Facility_Name": "Kamwingi Dispensary",
+    "latitude": -0.9235317,
+    "longitude": 36.8515868
+  },
+  {
+    "County": "KERICHO",
+    "Sub-County": "Kipkelion East",
+    "Health_Facility_Name": "Kedowa Dispensary",
+    "latitude": -0.1980274,
+    "longitude": 35.6183601
+  },
+  {
+    "County": "KERICHO",
+    "Sub-County": "Kipkelion West",
+    "Health_Facility_Name": "Kunyak Dispensary",
+    "latitude": -0.1144148,
+    "longitude": 35.2697802
+  },
+  {
+    "County": "KERICHO",
+    "Sub-County": "Kipkelion West",
+    "Health_Facility_Name": "Mtaragon Health Centre",
+    "latitude": -0.1157265,
+    "longitude": 35.4230614
+  },
+  {
+    "County": "KERICHO",
+    "Sub-County": "Kipkelion West",
+    "Health_Facility_Name": "Makyolok Dispensary",
+    "latitude": -0.207704,
+    "longitude": 35.4480605
+  },
+  {
+    "County": "KERICHO",
+    "Sub-County": "Sigowet/Soin",
+    "Health_Facility_Name": "Kipsitet Dispensary",
+    "latitude": -0.2218786,
+    "longitude": 35.1598773
+  },
+  {
+    "County": "KERICHO",
+    "Sub-County": "Sigowet/Soin",
+    "Health_Facility_Name": "Kaitui Dispensary",
+    "latitude": -0.2859256,
+    "longitude": 35.16235
+  },
+  {
+    "County": "KERICHO",
+    "Sub-County": "Sigowet/Soin",
+    "Health_Facility_Name": "Kiptere Dispensary",
+    "latitude": -0.4,
+    "longitude": 35.1
+  },
+  {
+    "County": "KERICHO",
+    "Sub-County": "Sigowet/Soin",
+    "Health_Facility_Name": "Kabutii Matiret",
+    "latitude": -0.3900599,
+    "longitude": 35.0127894
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Gatundu North",
+    "Health_Facility_Name": "Igegania Sub-District Hospital",
+    "latitude": -1.0141828,
+    "longitude": 36.9062824
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Gatundu South",
+    "Health_Facility_Name": "Gatundu District Hospital",
+    "latitude": -1.0151664,
+    "longitude": 36.9061241
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Gatundu-south",
+    "Health_Facility_Name": "St Jude hospital",
+    "latitude": 35.2321616,
+    "longitude": -97.4956551
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Gatundu-south",
+    "Health_Facility_Name": "Karatu L4 Hosp",
+    "latitude": -3.3454038,
+    "longitude": 35.6696802
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Githunguri",
+    "Health_Facility_Name": "Holy family catholic hospital githunguri",
+    "latitude": -1.0586059,
+    "longitude": 36.7739566
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Githunguri",
+    "Health_Facility_Name": "Githunguri Health centre",
+    "latitude": -1.0572178,
+    "longitude": 36.7774767
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Githunguri",
+    "Health_Facility_Name": "Kigumo Sub County Hospital",
+    "latitude": -0.4173028,
+    "longitude": 37.6373316
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Juja",
+    "Health_Facility_Name": "Kalimoni Mission Hospital (Juja)",
+    "latitude": -1.1161527,
+    "longitude": 37.0196369
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Juja",
+    "Health_Facility_Name": "Jkuat Hospital",
+    "latitude": -1.0966017,
+    "longitude": 37.0128871
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Juja",
+    "Health_Facility_Name": "Gachororo Health centre",
+    "latitude": -1.086534,
+    "longitude": 37.0199615
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Kabete",
+    "Health_Facility_Name": "LIFE-POINT hospital",
+    "latitude": 35.3626958,
+    "longitude": -81.9661339
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Kabete",
+    "Health_Facility_Name": "Uthiru Dispensary",
+    "latitude": -1.2588677,
+    "longitude": 36.7111007
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Kabete",
+    "Health_Facility_Name": "Wangige Sub County Hospital",
+    "latitude": -1.2202532,
+    "longitude": 36.7132449
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Kabete",
+    "Health_Facility_Name": "Nyathuna Level 4 Hospital",
+    "latitude": -1.1858719,
+    "longitude": 36.6781941
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Kiambaa",
+    "Health_Facility_Name": "Kihara Sub County Hospital",
+    "latitude": -1.2145118,
+    "longitude": 36.7674875
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Kiambaa",
+    "Health_Facility_Name": "Karuri L4 Hospital",
+    "latitude": 37.5339417,
+    "longitude": -95.8146778
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Kiambu-town",
+    "Health_Facility_Name": "Kiambu level 5 hospital",
+    "latitude": -1.1713233,
+    "longitude": 36.8302546
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Kikuyu",
+    "Health_Facility_Name": "ACK Emmanuel Mission Hospital",
+    "latitude": -1.2886562,
+    "longitude": 36.7478329
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Kikuyu",
+    "Health_Facility_Name": "Kikuyu (PCEA) Hospital",
+    "latitude": -1.2657762,
+    "longitude": 36.667954
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Kikuyu",
+    "Health_Facility_Name": "Gichuru H centre",
+    "latitude": 43.7228497,
+    "longitude": -79.3729451
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Kikuyu",
+    "Health_Facility_Name": "Lusigett L4 hosp",
+    "latitude": -1.28229,
+    "longitude": 36.6126422
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Lari",
+    "Health_Facility_Name": "Kijabe (AIC) Hospital",
+    "latitude": -0.9482907,
+    "longitude": 36.5945907
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Lari",
+    "Health_Facility_Name": "Lari Hospital",
+    "latitude": 26.8651577,
+    "longitude": 80.9163738
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Lari",
+    "Health_Facility_Name": "Kagaa H Centre",
+    "latitude": -1.0371896,
+    "longitude": 36.7226789
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Limuru",
+    "Health_Facility_Name": "Nazareth Hospital",
+    "latitude": 40.0592215,
+    "longitude": -75.041153
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Limuru",
+    "Health_Facility_Name": "Tigoni L 4 hospital",
+    "latitude": -1.1281123,
+    "longitude": 36.6685564
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Ruiru",
+    "Health_Facility_Name": "Langata H Centre",
+    "latitude": -1.3208096,
+    "longitude": 36.7794257
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Ruiru",
+    "Health_Facility_Name": "Ruiru GK prison",
+    "latitude": -1.1543202,
+    "longitude": 36.9297539
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Ruiru",
+    "Health_Facility_Name": "Ruiru L4 hosp.",
+    "latitude": -1.144159,
+    "longitude": 36.9580085
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Thika-town",
+    "Health_Facility_Name": "Kiandutu H Centre",
+    "latitude": -1.0525771,
+    "longitude": 37.0762539
+  },
+  {
+    "County": "KIAMBU",
+    "Sub-County": "Thika-town",
+    "Health_Facility_Name": "Thika level 5 hospital",
+    "latitude": -1.0418127,
+    "longitude": 37.0786691
+  },
+  {
+    "County": "KILIFI",
+    "Sub-County": "Kilifi North",
+    "Health_Facility_Name": "Kilifi County Hospital",
+    "latitude": -3.6317483,
+    "longitude": 39.8565764
+  },
+  {
+    "County": "KILIFI",
+    "Sub-County": "Malindi",
+    "Health_Facility_Name": "Malindi Sub-county hospital",
+    "latitude": -3.2262301,
+    "longitude": 40.1249463
+  },
+  {
+    "County": "KILIFI",
+    "Sub-County": "Kaloleni",
+    "Health_Facility_Name": "Mariakani sub county hospital",
+    "latitude": -3.8633653,
+    "longitude": 39.4719713
+  },
+  {
+    "County": "KILIFI",
+    "Sub-County": "Ganze",
+    "Health_Facility_Name": "Bamba Sub county hospital",
+    "latitude": 32.8116871,
+    "longitude": -96.8338867
+  },
+  {
+    "County": "KILIFI",
+    "Sub-County": "Kilifi South",
+    "Health_Facility_Name": "Vipingo Health Centre",
+    "latitude": -3.819101,
+    "longitude": 39.8096523
+  },
+  {
+    "County": "KILIFI",
+    "Sub-County": "Magarini",
+    "Health_Facility_Name": "Gongoni Health Centre",
+    "latitude": -3.03399,
+    "longitude": 40.14069
+  },
+  {
+    "County": "KILIFI",
+    "Sub-County": "Rabai",
+    "Health_Facility_Name": "Rabai Health Centre",
+    "latitude": -3.9454005,
+    "longitude": 39.5588473
+  },
+  {
+    "County": "KIRINYAGA",
+    "Sub-County": "Kirinyaga North sub county",
+    "Health_Facility_Name": "Thiba health centre",
+    "latitude": -0.6838817,
+    "longitude": 37.3586816
+  },
+  {
+    "County": "KIRINYAGA",
+    "Sub-County": "Kirinyaga central",
+    "Health_Facility_Name": "Kerugoya medical centre",
+    "latitude": -0.5028219,
+    "longitude": 37.2789663
+  },
+  {
+    "County": "KIRINYAGA",
+    "Sub-County": "Kirinyaga central sub County",
+    "Health_Facility_Name": "Kerugoya county hospital",
+    "latitude": -0.5047745,
+    "longitude": 37.2813749
+  },
+  {
+    "County": "KIRINYAGA",
+    "Sub-County": "Kirinyaga central sub County",
+    "Health_Facility_Name": "ACK. Mt. Kenya hospital",
+    "latitude": -0.4916573,
+    "longitude": 37.2647812
+  },
+  {
+    "County": "KIRINYAGA",
+    "Sub-County": "Kirinyaga East sub county,",
+    "Health_Facility_Name": "Kianyaga sub county hospital,.",
+    "latitude": -0.5043008,
+    "longitude": 37.3563667
+  },
+  {
+    "County": "KIRINYAGA",
+    "Sub-County": "Kirinyaga south sub county",
+    "Health_Facility_Name": "Kimbimbi sub county hospital",
+    "latitude": -0.6196431,
+    "longitude": 37.3655603
+  },
+  {
+    "County": "KIRINYAGA",
+    "Sub-County": "Kirinyaga South Sub cunty",
+    "Health_Facility_Name": "Mwea medical hospital,",
+    "latitude": 39.7422495,
+    "longitude": -104.8349311
+  },
+  {
+    "County": "KIRINYAGA",
+    "Sub-County": "Kirinyaga west sub county",
+    "Health_Facility_Name": "Sagana sub county hospital,",
+    "latitude": -0.6695132,
+    "longitude": 37.2061138
+  },
+  {
+    "County": "KIRINYAGA",
+    "Sub-County": "KirinyagaNorth sub county",
+    "Health_Facility_Name": "Mwea mission hospital",
+    "latitude": -0.6835981,
+    "longitude": 37.3526777
+  },
+  {
+    "County": "KISII",
+    "Sub-County": "Bomachoge Borabu",
+    "Health_Facility_Name": "Misesi Sub county",
+    "latitude": -0.7367899,
+    "longitude": 34.6967094
+  },
+  {
+    "County": "KISII",
+    "Sub-County": "Bonchari",
+    "Health_Facility_Name": "Marble Hospital",
+    "latitude": 30.5128939,
+    "longitude": -98.3045079
+  },
+  {
+    "County": "KISII",
+    "Sub-County": "Kitutu Chache North",
+    "Health_Facility_Name": "Getembe Kenyara Hospital",
+    "latitude": -0.677334,
+    "longitude": 34.779603
+  },
+  {
+    "County": "KISII",
+    "Sub-County": "Kitutu Chache South",
+    "Health_Facility_Name": "Mediforte Hospital Ltd",
+    "latitude": -0.6676889,
+    "longitude": 34.769621
+  },
+  {
+    "County": "KISII",
+    "Sub-County": "Kitutu Chache South",
+    "Health_Facility_Name": "Care and Cure Hosp",
+    "latitude": 35.4828158,
+    "longitude": -97.5163059
+  },
+  {
+    "County": "KISII",
+    "Sub-County": "Kitutu Chache South",
+    "Health_Facility_Name": "The Nairobi Family Hospital",
+    "latitude": -1.273355,
+    "longitude": 37.0007747
+  },
+  {
+    "County": "KISII",
+    "Sub-County": "Kitutu Chache South",
+    "Health_Facility_Name": "Oasis Specialist Hospital",
+    "latitude": 35.133126,
+    "longitude": -106.592016
+  },
+  {
+    "County": "KISII",
+    "Sub-County": "Kitutu Chache South",
+    "Health_Facility_Name": "Ram hospital",
+    "latitude": 39.0840589,
+    "longitude": -94.5773627
+  },
+  {
+    "County": "KISII",
+    "Sub-County": "Kitutu Chache South",
+    "Health_Facility_Name": "Getembe Hospital",
+    "latitude": -0.6741971,
+    "longitude": 34.7695612
+  },
+  {
+    "County": "KISII",
+    "Sub-County": "Kitutu Chache South",
+    "Health_Facility_Name": "Bosono Hospital",
+    "latitude": 42.3344959,
+    "longitude": -71.0731311
+  },
+  {
+    "County": "KISII",
+    "Sub-County": "Kitutu Chache South",
+    "Health_Facility_Name": "Hema Hospital",
+    "latitude": 33.184104,
+    "longitude": -97.0965039
+  },
+  {
+    "County": "KISII",
+    "Sub-County": "Nyaribari Masaba",
+    "Health_Facility_Name": "Masimba Sub county Hospital",
+    "latitude": 45.5388865,
+    "longitude": -111.1194231
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Kisumu Central",
+    "Health_Facility_Name": "Migosi Sub County Hospital",
+    "latitude": -0.0800459,
+    "longitude": 34.7816743
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Kisumu Central",
+    "Health_Facility_Name": "Kisumu County Referral Hospital",
+    "latitude": -0.1016215,
+    "longitude": 34.7555775
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Kisumu Central",
+    "Health_Facility_Name": "Jaramogi Oginga Odinga Teaching and Referral",
+    "latitude": -0.0889894,
+    "longitude": 34.7717912
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Kisumu Central",
+    "Health_Facility_Name": "Lumumba Health Centre",
+    "latitude": 33.9033246,
+    "longitude": -118.2560885
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Kisumu Central",
+    "Health_Facility_Name": "Avenue Hospital Kisumu",
+    "latitude": -0.0910956,
+    "longitude": 34.767877
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Kisumu Central",
+    "Health_Facility_Name": "Aga Khan Hospital (Kisumu)",
+    "latitude": -0.096722,
+    "longitude": 34.758698
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Kisumu Central",
+    "Health_Facility_Name": "Nightingale Milimani Hospital",
+    "latitude": -0.1079627,
+    "longitude": 34.755722
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Kisumu East",
+    "Health_Facility_Name": "Gita Sub-county Hospital",
+    "latitude": -0.0276177,
+    "longitude": 34.7905643
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Kisumu East",
+    "Health_Facility_Name": "St. Elizabeth chiga",
+    "latitude": -0.0990457,
+    "longitude": 34.8448505
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Kisumu East",
+    "Health_Facility_Name": "st monica hospital",
+    "latitude": 34.0307739,
+    "longitude": -118.4796445
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Kisumu West",
+    "Health_Facility_Name": "Nyahera Sub-County Hospital",
+    "latitude": 37.0076927,
+    "longitude": -98.4889183
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Kisumu West",
+    "Health_Facility_Name": "Chulaimbo County Hospital",
+    "latitude": -0.038797,
+    "longitude": 34.69207
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Kisumu West",
+    "Health_Facility_Name": "Ober Kamoth Sub county Hospital",
+    "latitude": 41.8688335,
+    "longitude": -87.6704545
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Kisumu West",
+    "Health_Facility_Name": "Maseno Mission",
+    "latitude": 0.0008151,
+    "longitude": 34.6116755
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Kisumu West",
+    "Health_Facility_Name": "St. Jairus",
+    "latitude": 46.450948,
+    "longitude": -80.996428
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Muhoroni",
+    "Health_Facility_Name": "Muhoroni County Hospital",
+    "latitude": -0.151547,
+    "longitude": 35.205619
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Muhoroni",
+    "Health_Facility_Name": "Nyang'oma Sub County Hospital",
+    "latitude": 41.0342964,
+    "longitude": -73.630449
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Muhoroni",
+    "Health_Facility_Name": "Masogo Sub County Hospital",
+    "latitude": -0.1566093,
+    "longitude": 35.1983598
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Muhoroni",
+    "Health_Facility_Name": "Koru Mission",
+    "latitude": 40.7722294,
+    "longitude": -73.9540545
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Muhoroni",
+    "Health_Facility_Name": "St. vincent depaul",
+    "latitude": 37.3401932,
+    "longitude": -95.251562
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Nyakach",
+    "Health_Facility_Name": "Nyakach County Hospital",
+    "latitude": -0.3130753,
+    "longitude": 34.9368801
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Nyakach",
+    "Health_Facility_Name": "Katito Sub County Hospital",
+    "latitude": -0.0889894,
+    "longitude": 34.7717912
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Nyakach",
+    "Health_Facility_Name": "Sondu Sub County Hospital",
+    "latitude": -0.3900075,
+    "longitude": 35.0140324
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Nyakach",
+    "Health_Facility_Name": "Nyamarimba Sub County Hospital",
+    "latitude": -0.5577862,
+    "longitude": 34.9291949
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Nyakach",
+    "Health_Facility_Name": "Nyabondo Mission",
+    "latitude": -0.3813936,
+    "longitude": 34.9787337
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Nyando",
+    "Health_Facility_Name": "Ahero County Hospital",
+    "latitude": -0.1734779,
+    "longitude": 34.9236089
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Nyando",
+    "Health_Facility_Name": "Nyangande Sub-County Hospital",
+    "latitude": -0.206834,
+    "longitude": 34.84793
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Nyando",
+    "Health_Facility_Name": "Rabuor Sub-county Hospital",
+    "latitude": 41.4314343,
+    "longitude": -71.4966243
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Nyando",
+    "Health_Facility_Name": "Awasi Mission Hospital",
+    "latitude": 33.0454235,
+    "longitude": -97.0049828
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Seme",
+    "Health_Facility_Name": "Kombewa County Hospital",
+    "latitude": 31.2206611,
+    "longitude": -99.8479995
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Seme",
+    "Health_Facility_Name": "Miranga Sub District Hospital",
+    "latitude": -0.7187538,
+    "longitude": 37.1611409
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Seme",
+    "Health_Facility_Name": "Manyuanda Health Centre",
+    "latitude": -0.2550665,
+    "longitude": 34.2772257
+  },
+  {
+    "County": "KISUMU",
+    "Sub-County": "Seme",
+    "Health_Facility_Name": "Kolenyo",
+    "latitude": -0.0941405,
+    "longitude": 34.469407
+  },
+  {
+    "County": "KITUI",
+    "Sub-County": "Kitui Central",
+    "Health_Facility_Name": "Katulani Sub County Hospital (Kitui)",
+    "latitude": -1.3653726,
+    "longitude": 38.0114722
+  },
+  {
+    "County": "KITUI",
+    "Sub-County": "Kitui Central",
+    "Health_Facility_Name": "Kitui County Referral Hospital",
+    "latitude": -1.3703315,
+    "longitude": 38.0124324
+  },
+  {
+    "County": "KITUI",
+    "Sub-County": "Kitui Central",
+    "Health_Facility_Name": "Jordan Hospital",
+    "latitude": 41.9431231,
+    "longitude": -70.6451746
+  },
+  {
+    "County": "KITUI",
+    "Sub-County": "Kitui Central",
+    "Health_Facility_Name": "Neema Hospital",
+    "latitude": 30.3505033,
+    "longitude": -97.7518024
+  },
+  {
+    "County": "KITUI",
+    "Sub-County": "Kitui East",
+    "Health_Facility_Name": "Zombe Sub County Hospital",
+    "latitude": 41.8727197,
+    "longitude": -87.6737256
+  },
+  {
+    "County": "KITUI",
+    "Sub-County": "Kitui East",
+    "Health_Facility_Name": "Mutitu Sub County Hospital",
+    "latitude": 37.0076927,
+    "longitude": -98.4889183
+  },
+  {
+    "County": "KITUI",
+    "Sub-County": "Kitui Rural",
+    "Health_Facility_Name": "Kanyangi Sub County Hospital",
+    "latitude": -1.3750813,
+    "longitude": 37.9952144
+  },
+  {
+    "County": "KITUI",
+    "Sub-County": "Kitui South",
+    "Health_Facility_Name": "Mutomo Sub County Hospital",
+    "latitude": -1.8488968,
+    "longitude": 38.2104914
+  },
+  {
+    "County": "KITUI",
+    "Sub-County": "Kitui South",
+    "Health_Facility_Name": "Our Lady of Lourdes Mutomo Hospital",
+    "latitude": -1.8488968,
+    "longitude": 38.2104914
+  },
+  {
+    "County": "KITUI",
+    "Sub-County": "Kitui South",
+    "Health_Facility_Name": "Ikanga Sub County Hospital",
+    "latitude": -1.7256046,
+    "longitude": 38.0763683
+  },
+  {
+    "County": "KITUI",
+    "Sub-County": "Kitui South",
+    "Health_Facility_Name": "Ikutha Sub County Hospital",
+    "latitude": -2.0651622,
+    "longitude": 38.1767775
+  },
+  {
+    "County": "KITUI",
+    "Sub-County": "Kitui West",
+    "Health_Facility_Name": "Muthale Mission Hospital",
+    "latitude": -1.1924044,
+    "longitude": 38.0002677
+  },
+  {
+    "County": "KITUI",
+    "Sub-County": "Kitui West",
+    "Health_Facility_Name": "Kauwi Sub County Hospital",
+    "latitude": -1.3721777,
+    "longitude": 38.0104132
+  },
+  {
+    "County": "KITUI",
+    "Sub-County": "Mwingi Central",
+    "Health_Facility_Name": "Mwingi Sub County Hospital",
+    "latitude": -0.9417804,
+    "longitude": 38.0657816
+  },
+  {
+    "County": "KITUI",
+    "Sub-County": "Mwingi Central",
+    "Health_Facility_Name": "Nuu Sub County Hospital",
+    "latitude": 40.7261764,
+    "longitude": -73.5537497
+  },
+  {
+    "County": "KITUI",
+    "Sub-County": "Mwingi North",
+    "Health_Facility_Name": "Kyuso Sub County Hospital",
+    "latitude": -0.6068368,
+    "longitude": 38.2110938
+  },
+  {
+    "County": "KITUI",
+    "Sub-County": "Mwingi North",
+    "Health_Facility_Name": "Tseikuru Sub County Hospital",
+    "latitude": -0.3302659,
+    "longitude": 38.192874
+  },
+  {
+    "County": "KITUI",
+    "Sub-County": "Mwingi West",
+    "Health_Facility_Name": "Migwani Sub County Hospital",
+    "latitude": -1.0957745,
+    "longitude": 38.0189536
+  },
+  {
+    "County": "KWALE",
+    "Sub-County": "Kinango",
+    "Health_Facility_Name": "Kinago Hospital",
+    "latitude": -4.1392245,
+    "longitude": 39.3127726
+  },
+  {
+    "County": "KWALE",
+    "Sub-County": "Kinango",
+    "Health_Facility_Name": "Samburu Hospital",
+    "latitude": 41.8962223,
+    "longitude": -87.6218344
+  },
+  {
+    "County": "KWALE",
+    "Sub-County": "Lungalunga",
+    "Health_Facility_Name": "Lungalunga Hospital",
+    "latitude": -4.5540421,
+    "longitude": 39.1199759
+  },
+  {
+    "County": "KWALE",
+    "Sub-County": "Matuga",
+    "Health_Facility_Name": "Kwale Hospital",
+    "latitude": -4.1751256,
+    "longitude": 39.4552719
+  },
+  {
+    "County": "KWALE",
+    "Sub-County": "Msambweni",
+    "Health_Facility_Name": "Msambweni County referral hospital",
+    "latitude": -4.4806298,
+    "longitude": 39.4803593
+  },
+  {
+    "County": "KWALE",
+    "Sub-County": "Msambweni",
+    "Health_Facility_Name": "Kinondo hospital",
+    "latitude": -4.3542993,
+    "longitude": 39.5353254
+  },
+  {
+    "County": "KWALE",
+    "Sub-County": "Msambweni",
+    "Health_Facility_Name": "Diani Beach hospital",
+    "latitude": -4.2792665,
+    "longitude": 39.5904662
+  },
+  {
+    "County": "LAIKIPIA",
+    "Sub-County": "Laikipia East",
+    "Health_Facility_Name": "Nanyuki Hospital (Registered)",
+    "latitude": 0.002718,
+    "longitude": 37.078526
+  },
+  {
+    "County": "LAIKIPIA",
+    "Sub-County": "Laikipia East",
+    "Health_Facility_Name": "Lamuria SC Hospital",
+    "latitude": -0.2819587,
+    "longitude": 36.0808125
+  },
+  {
+    "County": "LAIKIPIA",
+    "Sub-County": "Laikipia East",
+    "Health_Facility_Name": "Kalalu Dispensary",
+    "latitude": 0.1938761,
+    "longitude": 37.1472998
+  },
+  {
+    "County": "LAIKIPIA",
+    "Sub-County": "Laikipia East",
+    "Health_Facility_Name": "Wiyumiririe Dispensary",
+    "latitude": -0.0749698,
+    "longitude": 36.5877948
+  },
+  {
+    "County": "LAIKIPIA",
+    "Sub-County": "Laikipia East",
+    "Health_Facility_Name": "Cottage Hospital",
+    "latitude": 34.4296399,
+    "longitude": -119.7236674
+  },
+  {
+    "County": "LAIKIPIA",
+    "Sub-County": "Laikipia North",
+    "Health_Facility_Name": "Doldol SC Hospital",
+    "latitude": 0.3932317,
+    "longitude": 37.1632119
+  },
+  {
+    "County": "LAIKIPIA",
+    "Sub-County": "Laikipia North",
+    "Health_Facility_Name": "Kimanjo Dispensary",
+    "latitude": 0.4755621,
+    "longitude": 37.0118503
+  },
+  {
+    "County": "LAIKIPIA",
+    "Sub-County": "Laikipia West",
+    "Health_Facility_Name": "Nyahururu Hospital",
+    "latitude": 0.0384736,
+    "longitude": 36.3621747
+  },
+  {
+    "County": "LAIKIPIA",
+    "Sub-County": "Laikipia West",
+    "Health_Facility_Name": "Rumuruti SC Hospital",
+    "latitude": 38.4699184,
+    "longitude": -121.4232125
+  },
+  {
+    "County": "LAIKIPIA",
+    "Sub-County": "Laikipia West",
+    "Health_Facility_Name": "Ndindika SC Hospital",
+    "latitude": 34.9567483,
+    "longitude": -81.0507894
+  },
+  {
+    "County": "LAIKIPIA",
+    "Sub-County": "Laikipia West",
+    "Health_Facility_Name": "Olmoran HC",
+    "latitude": -0.0379363,
+    "longitude": 34.6384204
+  },
+  {
+    "County": "LAIKIPIA",
+    "Sub-County": "Laikipia West",
+    "Health_Facility_Name": "Ng’arua HC",
+    "latitude": 0.2961699,
+    "longitude": 36.3139967
+  },
+  {
+    "County": "LAIKIPIA",
+    "Sub-County": "Laikipia West",
+    "Health_Facility_Name": "Salama HC",
+    "latitude": 38.9959508,
+    "longitude": -77.0988323
+  },
+  {
+    "County": "LAIKIPIA",
+    "Sub-County": "Laikipia West",
+    "Health_Facility_Name": "St. Benedict Hospital",
+    "latitude": 43.3996678,
+    "longitude": -97.991281
+  },
+  {
+    "County": "LAIKIPIA",
+    "Sub-County": "Laikipia West",
+    "Health_Facility_Name": "Sipili HC",
+    "latitude": 0.255031,
+    "longitude": 36.0997087
+  },
+  {
+    "County": "LAMU",
+    "Sub-County": "Lamu East",
+    "Health_Facility_Name": "Faza Hospital",
+    "latitude": 29.7114318,
+    "longitude": -95.3999679
+  },
+  {
+    "County": "LAMU",
+    "Sub-County": "Lamu West",
+    "Health_Facility_Name": "Mpeketoni Hospital",
+    "latitude": -2.391394,
+    "longitude": 40.6971757
+  },
+  {
+    "County": "LAMU",
+    "Sub-County": "Lamu West",
+    "Health_Facility_Name": "Lamu Hospital",
+    "latitude": -2.2786997,
+    "longitude": 40.9066457
+  },
+  {
+    "County": "LAMU",
+    "Sub-County": "Lamu West",
+    "Health_Facility_Name": "Mokowe Health Centre",
+    "latitude": -2.2326262,
+    "longitude": 40.8546094
+  },
+  {
+    "County": "LAMU",
+    "Sub-County": "Lamu West",
+    "Health_Facility_Name": "Hindi Magogoni Dispensary",
+    "latitude": -2.1761221,
+    "longitude": 40.8120082
+  },
+  {
+    "County": "LAMU",
+    "Sub-County": "Lamu West",
+    "Health_Facility_Name": "Witu Health Centre",
+    "latitude": 51.8005598,
+    "longitude": 0.6429916
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Kathiani",
+    "Health_Facility_Name": "Kathiani L4 Hospital",
+    "latitude": 29.5084179,
+    "longitude": -98.5718266
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Kathiani",
+    "Health_Facility_Name": "Kaviani Health Centre",
+    "latitude": 49.2652077,
+    "longitude": -123.1400129
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Kathiani",
+    "Health_Facility_Name": "Ithaeni Dispensary",
+    "latitude": 40.0447616,
+    "longitude": -75.4307564
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Kathiani",
+    "Health_Facility_Name": "Mutitu dispensary",
+    "latitude": -1.4278442,
+    "longitude": 37.2918034
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Kathiani",
+    "Health_Facility_Name": "Mitaboni Health Centre",
+    "latitude": -1.3727296,
+    "longitude": 37.2483596
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Kalama",
+    "Health_Facility_Name": "Kalama L4 Hospital",
+    "latitude": 46.0084472,
+    "longitude": -122.8445508
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Kalama",
+    "Health_Facility_Name": "Muumandu Health Centre",
+    "latitude": -1.6608889,
+    "longitude": 37.2856089
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Kalama",
+    "Health_Facility_Name": "Kola Health Centre",
+    "latitude": 41.6583259,
+    "longitude": -88.6211947
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Kangundo",
+    "Health_Facility_Name": "Kangundo L4 Hospital",
+    "latitude": -1.2987046,
+    "longitude": 37.3458906
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Kangundo",
+    "Health_Facility_Name": "Kakuyuni Health Centre",
+    "latitude": -1.3641821,
+    "longitude": 37.3459947
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Kangundo",
+    "Health_Facility_Name": "Kivaani Health Centre",
+    "latitude": -1.3634877,
+    "longitude": 37.3948543
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Kangundo",
+    "Health_Facility_Name": "Ndunduni Dispensary",
+    "latitude": -1.2629426,
+    "longitude": 37.3548641
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Kangundo",
+    "Health_Facility_Name": "Mukunike Community Hospital",
+    "latitude": -1.5228239,
+    "longitude": 37.2662592
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Machakos",
+    "Health_Facility_Name": "Machakos L5 Hospital",
+    "latitude": -1.5228239,
+    "longitude": 37.2662592
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Machakos",
+    "Health_Facility_Name": "Mutituni L4 Hospital",
+    "latitude": 37.5339417,
+    "longitude": -95.8146778
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Machakos",
+    "Health_Facility_Name": "Bishop Kioko Catholic Hosp.",
+    "latitude": -1.5269579,
+    "longitude": 37.2649954
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Machakos",
+    "Health_Facility_Name": "Ikulu Dispensary",
+    "latitude": -1.2984596,
+    "longitude": 37.3435194
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Machakos",
+    "Health_Facility_Name": "Mua Dispensary",
+    "latitude": 27.772242,
+    "longitude": -82.64999
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Machakos",
+    "Health_Facility_Name": "Approved Dispensary",
+    "latitude": 39.014524,
+    "longitude": -94.5747683
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Masinga",
+    "Health_Facility_Name": "Masinga L4 Hospital",
+    "latitude": 29.5084179,
+    "longitude": -98.5718266
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Masinga",
+    "Health_Facility_Name": "Ndithini L4 Hospital",
+    "latitude": 37.5339417,
+    "longitude": -95.8146778
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Masinga",
+    "Health_Facility_Name": "Mananja Health Centre",
+    "latitude": -0.9300074,
+    "longitude": 37.5960704
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Masinga",
+    "Health_Facility_Name": "Kithyoko Health Centre",
+    "latitude": -1.0472217,
+    "longitude": 37.8410775
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Masinga",
+    "Health_Facility_Name": "Kangonde Health Centre",
+    "latitude": -1.0823453,
+    "longitude": 37.6772385
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Masinga",
+    "Health_Facility_Name": "Ekalakala Health Centre",
+    "latitude": -0.9687381,
+    "longitude": 37.472141
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Masinga",
+    "Health_Facility_Name": "Kathukini Dispensary",
+    "latitude": -0.9857152,
+    "longitude": 37.4147666
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Matungulu",
+    "Health_Facility_Name": "Kimiti L4 Hospital",
+    "latitude": 37.5339417,
+    "longitude": -95.8146778
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Matungulu",
+    "Health_Facility_Name": "Sengani Community Hospital",
+    "latitude": 34.1595507,
+    "longitude": -118.3292108
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Matungulu",
+    "Health_Facility_Name": "Matungulu Health Centre",
+    "latitude": 39.2908924,
+    "longitude": -76.5482551
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Matungulu",
+    "Health_Facility_Name": "Nguluni Health Centre",
+    "latitude": -1.2825195,
+    "longitude": 37.2797062
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Matungulu",
+    "Health_Facility_Name": "Kyeleni Health Centre",
+    "latitude": -1.213031,
+    "longitude": 37.3453215
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Matungulu",
+    "Health_Facility_Name": "Donyo Sabuk Dispensary",
+    "latitude": -1.1400887,
+    "longitude": 37.2570237
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Mavoko",
+    "Health_Facility_Name": "Mavoko L4 Hospital",
+    "latitude": 37.5339417,
+    "longitude": -95.8146778
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Mavoko",
+    "Health_Facility_Name": "Kinanie Health Centre",
+    "latitude": -1.4048432,
+    "longitude": 37.0342469
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Mavoko",
+    "Health_Facility_Name": "Mlolongo Health Centre",
+    "latitude": -1.394419,
+    "longitude": 36.941681
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Mavoko",
+    "Health_Facility_Name": "Kyumbi Health Centre",
+    "latitude": -1.4577365,
+    "longitude": 36.977431
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Mavoko",
+    "Health_Facility_Name": "Katani Dispensary",
+    "latitude": -1.3370012,
+    "longitude": 37.0038929
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Mwala",
+    "Health_Facility_Name": "Mwala L4 Hospital",
+    "latitude": -1.3519815,
+    "longitude": 37.4502563
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Mwala",
+    "Health_Facility_Name": "Masii Health Centre",
+    "latitude": -1.459016,
+    "longitude": 37.43515
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Mwala",
+    "Health_Facility_Name": "Wamunyu Health Centre",
+    "latitude": -1.413408,
+    "longitude": 37.6240242
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Mwala",
+    "Health_Facility_Name": "Mbiuni Health Centre",
+    "latitude": -1.2508443,
+    "longitude": 37.388065
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Mwala",
+    "Health_Facility_Name": "Muthetheni Health Centre",
+    "latitude": -1.4968426,
+    "longitude": 37.5053213
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Yatta",
+    "Health_Facility_Name": "Matuu L4 Hospital",
+    "latitude": -1.1407002,
+    "longitude": 37.5481236
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Yatta",
+    "Health_Facility_Name": "Katangi Health Center",
+    "latitude": 36.3077207,
+    "longitude": -95.3028661
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Yatta",
+    "Health_Facility_Name": "Kisikii Dispensary",
+    "latitude": 35.3272349,
+    "longitude": -96.9212341
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Yatta",
+    "Health_Facility_Name": "Ikombe Dispensary",
+    "latitude": -1.2991249,
+    "longitude": 37.6761589
+  },
+  {
+    "County": "MACHAKOS",
+    "Sub-County": "Yatta",
+    "Health_Facility_Name": "Kithimani Dispensary",
+    "latitude": -1.189067,
+    "longitude": 37.4466191
+  },
+  {
+    "County": "MAKUENI",
+    "Sub-County": "Kaiti",
+    "Health_Facility_Name": "Mukuyuni Subcounty Hospital (Level IV)",
+    "latitude": -1.7837458,
+    "longitude": 37.6279148
+  },
+  {
+    "County": "MAKUENI",
+    "Sub-County": "Kaiti",
+    "Health_Facility_Name": "Kilungu Subcounty Hospital (IV)",
+    "latitude": -1.7860226,
+    "longitude": 37.3606521
+  },
+  {
+    "County": "MAKUENI",
+    "Sub-County": "Kaiti",
+    "Health_Facility_Name": "Kikoko Mission Hospital (IV)",
+    "latitude": 33.5616156,
+    "longitude": -117.6649857
+  },
+  {
+    "County": "MAKUENI",
+    "Sub-County": "Kibwezi East",
+    "Health_Facility_Name": "Kibwezi Subcounty Hospital (IV)",
+    "latitude": -2.4119709,
+    "longitude": 37.9677273
+  },
+  {
+    "County": "MAKUENI",
+    "Sub-County": "Kibwezi East",
+    "Health_Facility_Name": "Kambu Subcounty Hospital (IV)",
+    "latitude": -1.1713233,
+    "longitude": 36.8302546
+  },
+  {
+    "County": "MAKUENI",
+    "Sub-County": "Kibwezi East",
+    "Health_Facility_Name": "Mtito Andei Subcounty Hospital (IV)",
+    "latitude": -2.6904307,
+    "longitude": 38.1700391
+  },
+  {
+    "County": "MAKUENI",
+    "Sub-County": "Kibwezi West",
+    "Health_Facility_Name": "Makindu Subcounty Hospital (Level IV)",
+    "latitude": -2.2834018,
+    "longitude": 37.8252856
+  },
+  {
+    "County": "MAKUENI",
+    "Sub-County": "Kibwezi West",
+    "Health_Facility_Name": "Kilome Nursing Home (IV)",
+    "latitude": 36.1145232,
+    "longitude": -94.1511695
+  },
+  {
+    "County": "MAKUENI",
+    "Sub-County": "Kibwezi West",
+    "Health_Facility_Name": "Mulatya Memorial Hospital (IV)",
+    "latitude": -2.278223,
+    "longitude": 37.827847
+  },
+  {
+    "County": "MAKUENI",
+    "Sub-County": "Kilome",
+    "Health_Facility_Name": "Sultan Hamud Subcounty Hospital (Level IV)",
+    "latitude": -2.0163267,
+    "longitude": 37.378054
+  },
+  {
+    "County": "MAKUENI",
+    "Sub-County": "Makueni",
+    "Health_Facility_Name": "Mutyambua Subcounty Hospital (Level IV)",
+    "latitude": 40.3052325,
+    "longitude": -90.0541161
+  },
+  {
+    "County": "MAKUENI",
+    "Sub-County": "Makueni",
+    "Health_Facility_Name": "Matiliku Subcounty Hospital (Level IV)",
+    "latitude": -1.9490725,
+    "longitude": 37.5358914
+  },
+  {
+    "County": "MAKUENI",
+    "Sub-County": "Makueni",
+    "Health_Facility_Name": "Makueni County Referral Hospital (Level V)",
+    "latitude": -1.7837458,
+    "longitude": 37.6279148
+  },
+  {
+    "County": "MAKUENI",
+    "Sub-County": "Makueni",
+    "Health_Facility_Name": "Ralpha Hospital (IV)",
+    "latitude": 32.7839427,
+    "longitude": -79.953912
+  },
+  {
+    "County": "MAKUENI",
+    "Sub-County": "Makueni",
+    "Health_Facility_Name": "Royal Star Hospital (IV)",
+    "latitude": 37.0370235,
+    "longitude": -94.5100753
+  },
+  {
+    "County": "MAKUENI",
+    "Sub-County": "Mbooni",
+    "Health_Facility_Name": "Tawa Subcounty Hospital (Level IV)",
+    "latitude": -1.547912,
+    "longitude": 37.4663946
+  },
+  {
+    "County": "MAKUENI",
+    "Sub-County": "Mbooni",
+    "Health_Facility_Name": "Mbooni Subcounty Hospital (Level IV)",
+    "latitude": -1.6588315,
+    "longitude": 37.454428
+  },
+  {
+    "County": "MAKUENI",
+    "Sub-County": "Mbooni",
+    "Health_Facility_Name": "Kisau Subcounty Hospital (Level IV)",
+    "latitude": -1.6,
+    "longitude": 37.4833333
+  },
+  {
+    "County": "MANDERA",
+    "Sub-County": "Banisa",
+    "Health_Facility_Name": "Banisa sub county hospital",
+    "latitude": 3.9069704,
+    "longitude": 40.3700923
+  },
+  {
+    "County": "MANDERA",
+    "Sub-County": "Kutulo",
+    "Health_Facility_Name": "Kutulo sub county hospital",
+    "latitude": 34.0576912,
+    "longitude": -118.2075875
+  },
+  {
+    "County": "MANDERA",
+    "Sub-County": "Lafey",
+    "Health_Facility_Name": "Lafey sub county hospital",
+    "latitude": 41.4459862,
+    "longitude": -82.7101277
+  },
+  {
+    "County": "MANDERA",
+    "Sub-County": "Mandera East",
+    "Health_Facility_Name": "Mandera county referral Hospital",
+    "latitude": 3.9409883,
+    "longitude": 41.8617846
+  },
+  {
+    "County": "MANDERA",
+    "Sub-County": "Mandera East",
+    "Health_Facility_Name": "East sub county hospital",
+    "latitude": 39.7868751,
+    "longitude": -86.0749639
+  },
+  {
+    "County": "MANDERA",
+    "Sub-County": "Mandera North",
+    "Health_Facility_Name": "Mandera North sub county hospital",
+    "latitude": 36.8840366,
+    "longitude": -119.8003218
+  },
+  {
+    "County": "MANDERA",
+    "Sub-County": "Mandera South",
+    "Health_Facility_Name": "Mandera South sub county hospital",
+    "latitude": 3.9356389,
+    "longitude": 41.8551162
+  },
+  {
+    "County": "MANDERA",
+    "Sub-County": "Mandera West",
+    "Health_Facility_Name": "Mandera West sub county hospital",
+    "latitude": 40.3052325,
+    "longitude": -90.0541161
+  },
+  {
+    "County": "MARSABIT",
+    "Sub-County": "Laisamis",
+    "Health_Facility_Name": "Laisamis subcounty referral hospital",
+    "latitude": 1.6165282,
+    "longitude": 37.8074168
+  },
+  {
+    "County": "MARSABIT",
+    "Sub-County": "Laisamis",
+    "Health_Facility_Name": "Laisamis mission hospital",
+    "latitude": 1.5962079,
+    "longitude": 37.8061146
+  },
+  {
+    "County": "MARSABIT",
+    "Sub-County": "Moyale",
+    "Health_Facility_Name": "Moyale subcounty referral hospital",
+    "latitude": 3.5228561,
+    "longitude": 39.0573591
+  },
+  {
+    "County": "MARSABIT",
+    "Sub-County": "Moyale",
+    "Health_Facility_Name": "mission hospital",
+    "latitude": 38.9949758,
+    "longitude": -94.6913367
+  },
+  {
+    "County": "MARSABIT",
+    "Sub-County": "Northhorr",
+    "Health_Facility_Name": "Kalacha subcounty hospital",
+    "latitude": 3.1274867,
+    "longitude": 37.4238445
+  },
+  {
+    "County": "MARSABIT",
+    "Sub-County": "Saku",
+    "Health_Facility_Name": "Marsabit county referral hospital",
+    "latitude": 2.3316496,
+    "longitude": 37.9985728
+  },
+  {
+    "County": "MARSABIT",
+    "Sub-County": "Saku",
+    "Health_Facility_Name": "ISMC hospital",
+    "latitude": 35.4227066,
+    "longitude": -97.5321882
+  },
+  {
+    "County": "MERU",
+    "Sub-County": "Buuri",
+    "Health_Facility_Name": "Timau SC Hospital",
+    "latitude": -44.3903881,
+    "longitude": 171.2372756
+  },
+  {
+    "County": "MERU",
+    "Sub-County": "Buuri",
+    "Health_Facility_Name": "St.Theresa Miss. Hosp, Kiirua",
+    "latitude": 0.1262493,
+    "longitude": 37.567455
+  },
+  {
+    "County": "MERU",
+    "Sub-County": "Igembe Central",
+    "Health_Facility_Name": "Kangeta SC Hospital",
+    "latitude": 0.2305413,
+    "longitude": 37.9420614
+  },
+  {
+    "County": "MERU",
+    "Sub-County": "Igembe North",
+    "Health_Facility_Name": "Mutuati SC Hospital",
+    "latitude": 0.3827844,
+    "longitude": 37.9811065
+  },
+  {
+    "County": "MERU",
+    "Sub-County": "Igembe South",
+    "Health_Facility_Name": "Nyambene SC Hospital",
+    "latitude": 0.2305413,
+    "longitude": 37.9420614
+  },
+  {
+    "County": "MERU",
+    "Sub-County": "Igembe South",
+    "Health_Facility_Name": "Maua Methodist Hospital",
+    "latitude": 0.2305413,
+    "longitude": 37.9420614
+  },
+  {
+    "County": "MERU",
+    "Sub-County": "Imenti South",
+    "Health_Facility_Name": "Kanyakine SC Hospital",
+    "latitude": 38.9869183,
+    "longitude": -76.9425543
+  },
+  {
+    "County": "MERU",
+    "Sub-County": "Imenti South",
+    "Health_Facility_Name": "Consolata Miss. Hospital",
+    "latitude": 29.1598233,
+    "longitude": -98.1742698
+  },
+  {
+    "County": "MERU",
+    "Sub-County": "Imenti South",
+    "Health_Facility_Name": "Mikumbune SC Hospita",
+    "latitude": 33.836081,
+    "longitude": -81.1637245
+  },
+  {
+    "County": "MERU",
+    "Sub-County": "Imenti South",
+    "Health_Facility_Name": "Kinoro SC Hospital",
+    "latitude": 33.836081,
+    "longitude": -81.1637245
+  },
+  {
+    "County": "MERU",
+    "Sub-County": "Imenti South",
+    "Health_Facility_Name": "St Ann Miss. Hospital",
+    "latitude": 38.7502554,
+    "longitude": -90.4341088
+  },
+  {
+    "County": "MERU",
+    "Sub-County": "Imenti Central",
+    "Health_Facility_Name": "Githongo SC Hospital",
+    "latitude": 55.8817639,
+    "longitude": -4.3130888
+  },
+  {
+    "County": "MERU",
+    "Sub-County": "Imenti Central",
+    "Health_Facility_Name": "Cottolengo Miss. Hospital",
+    "latitude": -0.0029857,
+    "longitude": 37.7662232
+  },
+  {
+    "County": "MERU",
+    "Sub-County": "Imenti North",
+    "Health_Facility_Name": "Meru County Hospital",
+    "latitude": 0.0510215,
+    "longitude": 37.6539566
+  },
+  {
+    "County": "MERU",
+    "Sub-County": "Imenti North",
+    "Health_Facility_Name": "Giaki SC Hospital",
+    "latitude": 46.1428243,
+    "longitude": -122.9364315
+  },
+  {
+    "County": "MERU",
+    "Sub-County": "Tigania East",
+    "Health_Facility_Name": "Muthara SC Hospital",
+    "latitude": 19.7754927,
+    "longitude": 79.2845772
+  },
+  {
+    "County": "MERU",
+    "Sub-County": "Tigania East",
+    "Health_Facility_Name": "St. John of God Miss. Hospital",
+    "latitude": 40.969212,
+    "longitude": -73.8855915
+  },
+  {
+    "County": "MERU",
+    "Sub-County": "Tigania East",
+    "Health_Facility_Name": "Mikinduri SC Hospital",
+    "latitude": 30.2624517,
+    "longitude": -81.4375467
+  },
+  {
+    "County": "MERU",
+    "Sub-County": "Tigania West",
+    "Health_Facility_Name": "Mbeu SC Hospital",
+    "latitude": 42.8584284,
+    "longitude": -77.0100419
+  },
+  {
+    "County": "MIGORI",
+    "Sub-County": "Awendo",
+    "Health_Facility_Name": "Awendo Sub-County Hospital",
+    "latitude": -0.9017152,
+    "longitude": 34.5334534
+  },
+  {
+    "County": "MIGORI",
+    "Sub-County": "Awendo",
+    "Health_Facility_Name": "Rapcom Hospital",
+    "latitude": 40.5858654,
+    "longitude": -74.0852669
+  },
+  {
+    "County": "MIGORI",
+    "Sub-County": "Awendo",
+    "Health_Facility_Name": "Ulanda mission hospital",
+    "latitude": -1.0068877,
+    "longitude": 34.5846768
+  },
+  {
+    "County": "MIGORI",
+    "Sub-County": "Kuria East",
+    "Health_Facility_Name": "Kegonga Sub-County Hospital",
+    "latitude": -1.2587098,
+    "longitude": 34.6526527
+  },
+  {
+    "County": "MIGORI",
+    "Sub-County": "Kuria East",
+    "Health_Facility_Name": "Ntimaru Sub-County Hospital",
+    "latitude": -1.3333299,
+    "longitude": 34.68766
+  },
+  {
+    "County": "MIGORI",
+    "Sub-County": "Kuria West",
+    "Health_Facility_Name": "Isebania Sub-County Hospital",
+    "latitude": -1.23592,
+    "longitude": 34.4814147
+  },
+  {
+    "County": "MIGORI",
+    "Sub-County": "Kuria West",
+    "Health_Facility_Name": "Kehancha Sub-County Hospital",
+    "latitude": -1.1800388,
+    "longitude": 34.6283326
+  },
+  {
+    "County": "MIGORI",
+    "Sub-County": "Kuria West",
+    "Health_Facility_Name": "Samjomen Hospital",
+    "latitude": -1.169901,
+    "longitude": 34.4417511
+  },
+  {
+    "County": "MIGORI",
+    "Sub-County": "Nyatike",
+    "Health_Facility_Name": "Macalder Sub-County Hospital",
+    "latitude": -0.9546935,
+    "longitude": 34.2856961
+  },
+  {
+    "County": "MIGORI",
+    "Sub-County": "Nyatike",
+    "Health_Facility_Name": "Karungu Sub-County Hospital",
+    "latitude": -0.8433537,
+    "longitude": 34.1573669
+  },
+  {
+    "County": "MIGORI",
+    "Sub-County": "Nyatike",
+    "Health_Facility_Name": "Muhuru Sub-County Hospital",
+    "latitude": -0.9988358,
+    "longitude": 34.0961553
+  },
+  {
+    "County": "MIGORI",
+    "Sub-County": "Nyatike",
+    "Health_Facility_Name": "St. Camillus Sori",
+    "latitude": -0.8221901,
+    "longitude": 34.134608
+  },
+  {
+    "County": "MIGORI",
+    "Sub-County": "Nyatike",
+    "Health_Facility_Name": "Sori Lakeside Hospital",
+    "latitude": -0.841253,
+    "longitude": 34.1549
+  },
+  {
+    "County": "MIGORI",
+    "Sub-County": "RONGO",
+    "Health_Facility_Name": "Rongo Sub-County Hospital",
+    "latitude": -0.7578093,
+    "longitude": 34.6000293
+  },
+  {
+    "County": "MIGORI",
+    "Sub-County": "Rongo",
+    "Health_Facility_Name": "Royal Hospital",
+    "latitude": 26.5103148,
+    "longitude": -81.9095759
+  },
+  {
+    "County": "MIGORI",
+    "Sub-County": "Rongo",
+    "Health_Facility_Name": "Lwala Community Hospital",
+    "latitude": -0.6781324,
+    "longitude": 34.6088219
+  },
+  {
+    "County": "MIGORI",
+    "Sub-County": "Suna East",
+    "Health_Facility_Name": "Migori County Referral Hospital",
+    "latitude": -1.0631322,
+    "longitude": 34.4773543
+  },
+  {
+    "County": "MIGORI",
+    "Sub-County": "Suna East",
+    "Health_Facility_Name": "St. Joseph's Mission",
+    "latitude": 37.772622,
+    "longitude": -87.1261169
+  },
+  {
+    "County": "MIGORI",
+    "Sub-County": "Suna East",
+    "Health_Facility_Name": "Ogwedhi Health Centre",
+    "latitude": -1.1137473,
+    "longitude": 34.6213592
+  },
+  {
+    "County": "MIGORI",
+    "Sub-County": "Suna East",
+    "Health_Facility_Name": "Nyarongi Dispensary",
+    "latitude": -1.0505877,
+    "longitude": 34.457793
+  },
+  {
+    "County": "MIGORI",
+    "Sub-County": "Suna West",
+    "Health_Facility_Name": "Nyamaraga Sub-County Hospital",
+    "latitude": -0.8562258,
+    "longitude": 34.8288507
+  },
+  {
+    "County": "MIGORI",
+    "Sub-County": "Suna West",
+    "Health_Facility_Name": "Akidiva Memorial Hospital",
+    "latitude": -1.0954815,
+    "longitude": 34.4542998
+  },
+  {
+    "County": "MIGORI",
+    "Sub-County": "Suna West",
+    "Health_Facility_Name": "Pastor Machaje Hospital",
+    "latitude": 41.496331,
+    "longitude": -81.6739675
+  },
+  {
+    "County": "MIGORI",
+    "Sub-County": "Uriri",
+    "Health_Facility_Name": "Uriri Sub-County Hospital",
+    "latitude": -0.9518239,
+    "longitude": 34.5129168
+  },
+  {
+    "County": "MIGORI",
+    "Sub-County": "Uriri",
+    "Health_Facility_Name": "Oyani Sub-County Hospital",
+    "latitude": -1.0378751,
+    "longitude": 34.5889693
+  },
+  {
+    "County": "MIGORI",
+    "Sub-County": "Uriri",
+    "Health_Facility_Name": "Othoro Sub-County Hospital",
+    "latitude": -0.8907445,
+    "longitude": 34.3867108
+  },
+  {
+    "County": "MOMBASA",
+    "Sub-County": "Changamwe",
+    "Health_Facility_Name": "Portreitz Sub County Hospital",
+    "latitude": -4.0393421,
+    "longitude": 39.6031191
+  },
+  {
+    "County": "MOMBASA",
+    "Sub-County": "Kisauni",
+    "Health_Facility_Name": "Jocham Hospital",
+    "latitude": -4.037309,
+    "longitude": 39.681526
+  },
+  {
+    "County": "MOMBASA",
+    "Sub-County": "Kisauni",
+    "Health_Facility_Name": "Shimo La Tewa Main Health Centre",
+    "latitude": -3.9580578,
+    "longitude": 39.7381175
+  },
+  {
+    "County": "MOMBASA",
+    "Sub-County": "Likoni",
+    "Health_Facility_Name": "Likoni Sub County Hospital",
+    "latitude": -4.0850218,
+    "longitude": 39.6554026
+  },
+  {
+    "County": "MOMBASA",
+    "Sub-County": "Mvita",
+    "Health_Facility_Name": "Coast General Teaching and Referal Hospiital",
+    "latitude": -4.0488535,
+    "longitude": 39.6741959
+  },
+  {
+    "County": "MOMBASA",
+    "Sub-County": "Mvita",
+    "Health_Facility_Name": "Tudor Sub County Hospital",
+    "latitude": 29.2192765,
+    "longitude": -96.2912101
+  },
+  {
+    "County": "MOMBASA",
+    "Sub-County": "Mvita",
+    "Health_Facility_Name": "Aga Hkan Hospital Mombasa",
+    "latitude": -4.0700508,
+    "longitude": 39.6704822
+  },
+  {
+    "County": "MOMBASA",
+    "Sub-County": "Mvita",
+    "Health_Facility_Name": "Pandya Memorial Hospital",
+    "latitude": -4.0683523,
+    "longitude": 39.671231
+  },
+  {
+    "County": "MOMBASA",
+    "Sub-County": "Mvita",
+    "Health_Facility_Name": "Mombasa Hospital",
+    "latitude": 38.8890755,
+    "longitude": -77.1274832
+  },
+  {
+    "County": "MOMBASA",
+    "Sub-County": "Mvita",
+    "Health_Facility_Name": "Kaderbuoy Dispensary",
+    "latitude": 41.1098399,
+    "longitude": -73.9963214
+  },
+  {
+    "County": "MOMBASA",
+    "Sub-County": "Mvita",
+    "Health_Facility_Name": "Tudor Sub County Hospital",
+    "latitude": 29.2192765,
+    "longitude": -96.2912101
+  },
+  {
+    "County": "MOMBASA",
+    "Sub-County": "Mvita",
+    "Health_Facility_Name": "KPA Clinic",
+    "latitude": 35.9249579,
+    "longitude": -84.0807985
+  },
+  {
+    "County": "MOMBASA",
+    "Sub-County": "Nyali",
+    "Health_Facility_Name": "Premiere Hospital",
+    "latitude": 31.7734955,
+    "longitude": -106.5022298
+  },
+  {
+    "County": "MURANG'A",
+    "Sub-County": "Gatanga",
+    "Health_Facility_Name": "Kirwara Sub County Hospital",
+    "latitude": -0.9291139,
+    "longitude": 36.9433552
+  },
+  {
+    "County": "MURANG'A",
+    "Sub-County": "Gatanga",
+    "Health_Facility_Name": "Ithanga Health Centre",
+    "latitude": -0.993724,
+    "longitude": 37.3394256
+  },
+  {
+    "County": "MURANG'A",
+    "Sub-County": "Kandara",
+    "Health_Facility_Name": "Kandara Sub County Hospital",
+    "latitude": -0.8964137,
+    "longitude": 37.0021177
+  },
+  {
+    "County": "MURANG'A",
+    "Sub-County": "Kandara",
+    "Health_Facility_Name": "Githumu Hospital",
+    "latitude": -0.8266188,
+    "longitude": 36.913409
+  },
+  {
+    "County": "MURANG'A",
+    "Sub-County": "Kandara",
+    "Health_Facility_Name": "Gaichanjiru Hospital",
+    "latitude": -0.8844063,
+    "longitude": 37.0518784
+  },
+  {
+    "County": "MURANG'A",
+    "Sub-County": "Kangema",
+    "Health_Facility_Name": "Kangema Sub County Hospital",
+    "latitude": -0.6900796,
+    "longitude": 36.9715437
+  },
+  {
+    "County": "MURANG'A",
+    "Sub-County": "Kigumo",
+    "Health_Facility_Name": "Kigumo Sub County Hospital",
+    "latitude": -0.4173028,
+    "longitude": 37.6373316
+  },
+  {
+    "County": "MURANG'A",
+    "Sub-County": "Kiharu",
+    "Health_Facility_Name": "Murang'a County Referral Hospital",
+    "latitude": -0.7187538,
+    "longitude": 37.1611409
+  },
+  {
+    "County": "MURANG'A",
+    "Sub-County": "Kiharu",
+    "Health_Facility_Name": "Muriranjas Sub County Hospital",
+    "latitude": -0.7504459,
+    "longitude": 36.9913105
+  },
+  {
+    "County": "MURANG'A",
+    "Sub-County": "Kiharu",
+    "Health_Facility_Name": "Family Heritage Hospital",
+    "latitude": -0.6939365,
+    "longitude": 36.96899
+  },
+  {
+    "County": "MURANG'A",
+    "Sub-County": "Mathioya",
+    "Health_Facility_Name": "Kiria-ini Mission Hospital",
+    "latitude": -0.6022135,
+    "longitude": 36.9515161
+  },
+  {
+    "County": "MURANG'A",
+    "Sub-County": "Mathioya",
+    "Health_Facility_Name": "Nyakianga Health Centre",
+    "latitude": -0.6423313,
+    "longitude": 36.9570057
+  },
+  {
+    "County": "MURANG'A",
+    "Sub-County": "Murang'a South",
+    "Health_Facility_Name": "Maragua Sub County Hospital",
+    "latitude": -0.7894753,
+    "longitude": 37.1275678
+  },
+  {
+    "County": "MURANG'A",
+    "Sub-County": "Murang'a South",
+    "Health_Facility_Name": "Kenol Hospital",
+    "latitude": -0.9372347,
+    "longitude": 37.1267188
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Dagoretti",
+    "Health_Facility_Name": "Kenyatta National Hospital",
+    "latitude": -1.301301,
+    "longitude": 36.8069899
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Dagoretti North",
+    "Health_Facility_Name": "Nairobi Hospital",
+    "latitude": -1.2958727,
+    "longitude": 36.8033705
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Dagoretti North",
+    "Health_Facility_Name": "Nairobi Women Hurlingham",
+    "latitude": -1.293722,
+    "longitude": 36.7960752
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Dagoretti North",
+    "Health_Facility_Name": "University of Nairobi",
+    "latitude": -1.2794987,
+    "longitude": 36.8159447
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Dagoretti North",
+    "Health_Facility_Name": "Medanta",
+    "latitude": 60.2126113,
+    "longitude": 24.9788351
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Dagoretti North",
+    "Health_Facility_Name": "Riruta H/C",
+    "latitude": 32.8116871,
+    "longitude": -96.8338867
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Dagoretti North",
+    "Health_Facility_Name": "Coptic Hospital",
+    "latitude": -1.2978588,
+    "longitude": 36.7976586
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Dagoretti South",
+    "Health_Facility_Name": "Waithaka H/C",
+    "latitude": 52.0746136,
+    "longitude": -0.6282833
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Dagoretti South",
+    "Health_Facility_Name": "Mutuini Sub-District Hospital",
+    "latitude": 42.3398067,
+    "longitude": -71.0891717
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Embakasi Central",
+    "Health_Facility_Name": "Kayole 2 H/C",
+    "latitude": -1.2773942,
+    "longitude": 36.9157976
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Embakasi East",
+    "Health_Facility_Name": "JKIA Port Health",
+    "latitude": -1.3227102,
+    "longitude": 36.9260693
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Embakasi East",
+    "Health_Facility_Name": "Komarock Modern",
+    "latitude": -1.2750923,
+    "longitude": 36.9752569
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Embakasi East",
+    "Health_Facility_Name": "Umoja H/C",
+    "latitude": -1.2821248,
+    "longitude": 36.8879083
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Embakasi East",
+    "Health_Facility_Name": "Embakasi H/C",
+    "latitude": -1.328084,
+    "longitude": 36.892612
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Embakasi North",
+    "Health_Facility_Name": "Dandora 1 HC",
+    "latitude": -1.2482996,
+    "longitude": 36.9025814
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Embakasi South",
+    "Health_Facility_Name": "Mukuru H/C",
+    "latitude": -33.9244124,
+    "longitude": 18.4218826
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Embakasi West",
+    "Health_Facility_Name": "Mama Lucy Kibaki Hospital",
+    "latitude": -1.274009,
+    "longitude": 36.8989906
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Kamukunji",
+    "Health_Facility_Name": "Eastleigh Hospital",
+    "latitude": 50.9971318,
+    "longitude": -1.3585932
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Kamukunji",
+    "Health_Facility_Name": "Shauri Moyo H/C",
+    "latitude": -1.2898823,
+    "longitude": 36.8479018
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Kamukunji",
+    "Health_Facility_Name": "Joy Nursing Home",
+    "latitude": 37.2782189,
+    "longitude": -97.1761889
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Kamukunji",
+    "Health_Facility_Name": "Pumwani Hospital",
+    "latitude": -1.2806642,
+    "longitude": 36.8454773
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Kasarani",
+    "Health_Facility_Name": "Kasarani H/C",
+    "latitude": 39.0027771,
+    "longitude": -77.1044597
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Kasarani",
+    "Health_Facility_Name": "Ruai Family Hospital",
+    "latitude": -1.273355,
+    "longitude": 37.0007747
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Kasarani",
+    "Health_Facility_Name": "St. Francis Hospital",
+    "latitude": 36.0716955,
+    "longitude": -95.9198583
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Kibra",
+    "Health_Facility_Name": "Kibera DO H/C",
+    "latitude": -1.3114845,
+    "longitude": 36.7879475
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Kibra",
+    "Health_Facility_Name": "Kibera AMREF",
+    "latitude": -1.3112197,
+    "longitude": 36.7956466
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Kibra",
+    "Health_Facility_Name": "Mbagathi Hospital",
+    "latitude": -1.3089469,
+    "longitude": 36.803424
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Lang'ata",
+    "Health_Facility_Name": "Lang'ata H/C",
+    "latitude": -1.3382899,
+    "longitude": 36.7422053
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Lang'ata",
+    "Health_Facility_Name": "Nairobi South Hospital",
+    "latitude": -1.3138291,
+    "longitude": 36.8284928
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Lang'ata",
+    "Health_Facility_Name": "Nairobi West Hospital",
+    "latitude": -1.3067072,
+    "longitude": 36.8257035
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Lang'ata",
+    "Health_Facility_Name": "Karen Hospital",
+    "latitude": -1.336066,
+    "longitude": 36.725983
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Lang'ata",
+    "Health_Facility_Name": "St. Mary Mission Hospital",
+    "latitude": 38.558152,
+    "longitude": -92.2204973
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Makadara",
+    "Health_Facility_Name": "Makadara H/C",
+    "latitude": -1.2969525,
+    "longitude": 36.8729052
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Makadara",
+    "Health_Facility_Name": "Lunga Lunga H/C",
+    "latitude": -4.5534909,
+    "longitude": 39.1283506
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Makadara",
+    "Health_Facility_Name": "Metropolitan",
+    "latitude": 38.928203,
+    "longitude": -94.7226381
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Mathare",
+    "Health_Facility_Name": "Huruma Lions H/C",
+    "latitude": -1.260666,
+    "longitude": 36.8669443
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Mathare",
+    "Health_Facility_Name": "NCCK Jumuia",
+    "latitude": -1.2599899,
+    "longitude": 36.8747863
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Roysambu",
+    "Health_Facility_Name": "Kahawa H/C",
+    "latitude": 39.5620978,
+    "longitude": -95.1226661
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Ruaraka",
+    "Health_Facility_Name": "Mathare North H/C",
+    "latitude": 37.0922249,
+    "longitude": -88.608334
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Ruaraka",
+    "Health_Facility_Name": "Baba Dogo H/C",
+    "latitude": -1.2443469,
+    "longitude": 36.8848251
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Ruaraka",
+    "Health_Facility_Name": "KU Referral Hospital",
+    "latitude": 39.0558912,
+    "longitude": -94.6088995
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Ruaraka",
+    "Health_Facility_Name": "Uhai Neema Hospital",
+    "latitude": -1.226956,
+    "longitude": 36.885225
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Starehe",
+    "Health_Facility_Name": "Remand Health Centre",
+    "latitude": 46.5505824,
+    "longitude": -84.3156266
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Starehe",
+    "Health_Facility_Name": "Ngara H/C",
+    "latitude": 40.7678398,
+    "longitude": -73.9645291
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Starehe",
+    "Health_Facility_Name": "Guru Nanak",
+    "latitude": 49.1759614,
+    "longitude": -122.8442757
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Starehe",
+    "Health_Facility_Name": "Mathare Teachung and referral Hospital",
+    "latitude": -1.2608177,
+    "longitude": 36.8465546
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Starehe",
+    "Health_Facility_Name": "Mater Hospital",
+    "latitude": 25.7572035,
+    "longitude": -102.9899426
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Westlands",
+    "Health_Facility_Name": "Westlands H/C",
+    "latitude": 42.3296351,
+    "longitude": -83.3880779
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Westlands",
+    "Health_Facility_Name": "Mediheal Hospial",
+    "latitude": 29.9668898,
+    "longitude": -95.5507459
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Westlands",
+    "Health_Facility_Name": "Agakhan Hospital",
+    "latitude": 24.8920057,
+    "longitude": 67.0747154
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Westlands",
+    "Health_Facility_Name": "MP Shah Hospital",
+    "latitude": -1.2634829,
+    "longitude": 36.8120972
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Westlands",
+    "Health_Facility_Name": "Avenue Hospital",
+    "latitude": 36.1461107,
+    "longitude": -95.9669201
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Westlands",
+    "Health_Facility_Name": "Gertrudes Hospital",
+    "latitude": 44.7721128,
+    "longitude": -93.5014234
+  },
+  {
+    "County": "NAIROBI",
+    "Sub-County": "Westlands",
+    "Health_Facility_Name": "Kangemi H/C",
+    "latitude": -1.2661909,
+    "longitude": 36.7484203
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Gilgil",
+    "Health_Facility_Name": "St. Joseph RiftValley Hospital",
+    "latitude": -0.4113162,
+    "longitude": 36.2512501
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Gilgil",
+    "Health_Facility_Name": "Kiptangwany",
+    "latitude": -0.5655959,
+    "longitude": 36.1168535
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Gilgil",
+    "Health_Facility_Name": "NYS Gilgil",
+    "latitude": -0.4789358,
+    "longitude": 36.3145895
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Gilgil",
+    "Health_Facility_Name": "Gilgil Sub County Hospital",
+    "latitude": -0.4922735,
+    "longitude": 36.3172993
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Gilgil",
+    "Health_Facility_Name": "Anti Stock Theft Unit",
+    "latitude": -0.497801,
+    "longitude": 36.323783
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Kuresoi North",
+    "Health_Facility_Name": "Kuresoi H/C",
+    "latitude": -0.2992992,
+    "longitude": 35.5302127
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Kuresoi North",
+    "Health_Facility_Name": "ST .joseph hosp,Molo",
+    "latitude": -0.2474437,
+    "longitude": 35.7286399
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Kuresoi North",
+    "Health_Facility_Name": "Kamwaura",
+    "latitude": -0.433333,
+    "longitude": 35.583333
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Kuresoi North",
+    "Health_Facility_Name": "Total Disp",
+    "latitude": 36.072384,
+    "longitude": -115.0806955
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Kuresoi South",
+    "Health_Facility_Name": "Olenguruone Sub-District Hospital",
+    "latitude": -0.5911857,
+    "longitude": 35.6857811
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Kuresoi South",
+    "Health_Facility_Name": "Keringet Sub County Hospital",
+    "latitude": 36.1906755,
+    "longitude": -101.199837
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Kuresoi South",
+    "Health_Facility_Name": "Kiptagich h/c",
+    "latitude": 42.5421876,
+    "longitude": -84.8355133
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Molo",
+    "Health_Facility_Name": "Elburgon Sub-District Hospital",
+    "latitude": -0.3059756,
+    "longitude": 35.8075514
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Molo",
+    "Health_Facility_Name": "Marishoni H/C",
+    "latitude": -0.6114267,
+    "longitude": 35.7406882
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Molo",
+    "Health_Facility_Name": "Molo District Hospital",
+    "latitude": -0.2488358,
+    "longitude": 35.7323709
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Naivasha",
+    "Health_Facility_Name": "Naivasha District Hospital",
+    "latitude": -0.718541,
+    "longitude": 36.438465
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Naivasha",
+    "Health_Facility_Name": "Maimahiu",
+    "latitude": -0.9820293,
+    "longitude": 36.5864447
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Naivasha",
+    "Health_Facility_Name": "Karagita",
+    "latitude": -0.7785265,
+    "longitude": 36.4418472
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Naivasha",
+    "Health_Facility_Name": "Maella",
+    "latitude": 41.1230647,
+    "longitude": 0.1395532
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Naivasha",
+    "Health_Facility_Name": "prisons annex",
+    "latitude": 31.810107,
+    "longitude": -106.253141
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Naivasha",
+    "Health_Facility_Name": "NYS Naivasha",
+    "latitude": -0.6504296,
+    "longitude": 36.4902229
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Naivasha",
+    "Health_Facility_Name": "The Karen Hospital Limited(Naivasha)",
+    "latitude": -0.7165316,
+    "longitude": 36.4355392
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Naivasha",
+    "Health_Facility_Name": "Polyclinic Hospital",
+    "latitude": 40.286332,
+    "longitude": -76.89842
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Nakuru East",
+    "Health_Facility_Name": "Mirugi Kariuki Sub County Hospital",
+    "latitude": -0.2913528,
+    "longitude": 36.1273805
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Nakuru East",
+    "Health_Facility_Name": "Bondeni CLINIC",
+    "latitude": 39.809223,
+    "longitude": -89.6554137
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Nakuru East",
+    "Health_Facility_Name": "Langa Langa Hospital",
+    "latitude": 40.4420518,
+    "longitude": -80.0213624
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Nakuru East",
+    "Health_Facility_Name": "Nakuru Nursing Home",
+    "latitude": -0.2899131,
+    "longitude": 36.0794318
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Nakuru East",
+    "Health_Facility_Name": "Optimum Current Health Care Hospital",
+    "latitude": 35.6536124,
+    "longitude": -97.4610743
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Nakuru East",
+    "Health_Facility_Name": "Mercy Mission Hospital - Annex Nakuru",
+    "latitude": -0.290467,
+    "longitude": 36.0722546
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Nakuru East",
+    "Health_Facility_Name": "Mediheal Hospital Nakuru",
+    "latitude": -0.285841,
+    "longitude": 36.1078534
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Nakuru East",
+    "Health_Facility_Name": "Valley Hospital",
+    "latitude": 40.9836954,
+    "longitude": -74.1005894
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Nakuru East",
+    "Health_Facility_Name": "St,Elizabeth",
+    "latitude": 37.6910438,
+    "longitude": -97.481502
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Nakuru East",
+    "Health_Facility_Name": "Baraka Maternity Home",
+    "latitude": 42.1170056,
+    "longitude": -83.213539
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Nakuru East",
+    "Health_Facility_Name": "Nakuru specialist hosp",
+    "latitude": -0.3036786,
+    "longitude": 36.142626
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Nakuru North",
+    "Health_Facility_Name": "Bahati District Hospital",
+    "latitude": -0.1705413,
+    "longitude": 36.1234755
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Nakuru North",
+    "Health_Facility_Name": "Engashura",
+    "latitude": -0.3030988,
+    "longitude": 36.080026
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Nakuru West",
+    "Health_Facility_Name": "KMTC Nakuru",
+    "latitude": -0.2754172,
+    "longitude": 36.0727662
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Nakuru West",
+    "Health_Facility_Name": "Sunrise Evans Hospital",
+    "latitude": 40.3895146,
+    "longitude": -104.6968056
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Nakuru West",
+    "Health_Facility_Name": "Nakuru War Memorial Hospital",
+    "latitude": -0.2819587,
+    "longitude": 36.0808125
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Nakuru West",
+    "Health_Facility_Name": "Nakuru Provincial General Hospital",
+    "latitude": -0.2781041,
+    "longitude": 36.0702784
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Nakuru west",
+    "Health_Facility_Name": "Joyellen",
+    "latitude": 40.7481246,
+    "longitude": -73.9923829
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Nakuru West",
+    "Health_Facility_Name": "Annex Hospital (Nakuru)",
+    "latitude": -0.2824468,
+    "longitude": 36.0813708
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "NAKURUWEST",
+    "Health_Facility_Name": "GK Prisons NAKURU",
+    "latitude": -0.2655608,
+    "longitude": 36.0545153
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Njoro",
+    "Health_Facility_Name": "Njoro Subcounty Hospital",
+    "latitude": -0.3304263,
+    "longitude": 35.9433967
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Njoro",
+    "Health_Facility_Name": "Egerton University",
+    "latitude": -0.3724527,
+    "longitude": 35.9335101
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Njoro",
+    "Health_Facility_Name": "Newpoint health services",
+    "latitude": 39.7495213,
+    "longitude": -104.9913688
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Njoro",
+    "Health_Facility_Name": "Mau Narok",
+    "latitude": -0.6055243,
+    "longitude": 36.007764
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Rongai",
+    "Health_Facility_Name": "Rongai H/C",
+    "latitude": -1.3968963,
+    "longitude": 36.7535382
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Rongai",
+    "Health_Facility_Name": "Soin sub county hospital",
+    "latitude": -0.1705283,
+    "longitude": 35.8552598
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Subukia",
+    "Health_Facility_Name": "Kabazi Sub County Hospital",
+    "latitude": 32.7358137,
+    "longitude": -97.3389148
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Subukia",
+    "Health_Facility_Name": "Upper Solai",
+    "latitude": 0.0028237,
+    "longitude": 36.1558982
+  },
+  {
+    "County": "NAKURU",
+    "Sub-County": "Subukia",
+    "Health_Facility_Name": "Subukia Sub County Hospital",
+    "latitude": 0.0028331,
+    "longitude": 36.2305703
+  },
+  {
+    "County": "NANDI",
+    "Sub-County": "Aldai Subcounty",
+    "Health_Facility_Name": "Kaptumo Sub County Hospital",
+    "latitude": 0.1146627,
+    "longitude": 35.0938658
+  },
+  {
+    "County": "NANDI",
+    "Sub-County": "Chesumei Subcounty",
+    "Health_Facility_Name": "Mosoriot Sub county Hospital",
+    "latitude": 0.3217199,
+    "longitude": 35.1728193
+  },
+  {
+    "County": "NANDI",
+    "Sub-County": "Emgwen Subcounty",
+    "Health_Facility_Name": "Kapsabet County Referral Hospita;",
+    "latitude": 0.2024973,
+    "longitude": 35.1030286
+  },
+  {
+    "County": "NANDI",
+    "Sub-County": "Mosop subcounty",
+    "Health_Facility_Name": "Kabiyet Sub county Hospital",
+    "latitude": 0.413503,
+    "longitude": 35.075451
+  },
+  {
+    "County": "NANDI",
+    "Sub-County": "Mosop subcounty",
+    "Health_Facility_Name": "Chepterwai Subcounty Hospital",
+    "latitude": 30.2839051,
+    "longitude": -95.4775991
+  },
+  {
+    "County": "NANDI",
+    "Sub-County": "Nandi Hills Subcounty",
+    "Health_Facility_Name": "Nandi Hills Hospital",
+    "latitude": 0.1036607,
+    "longitude": 35.1841028
+  },
+  {
+    "County": "NANDI",
+    "Sub-County": "Tindiret Sub county",
+    "Health_Facility_Name": "Meteitei Hospital",
+    "latitude": 0.0054502,
+    "longitude": 35.3079128
+  },
+  {
+    "County": "NAROK",
+    "Sub-County": "Narok North",
+    "Health_Facility_Name": "Narok County Referral Hospital",
+    "latitude": -1.0843742,
+    "longitude": 35.8672487
+  },
+  {
+    "County": "NAROK",
+    "Sub-County": "Trans Mara West",
+    "Health_Facility_Name": "Trans Mara West Sub County Hospital",
+    "latitude": -1.0047652,
+    "longitude": 34.8790684
+  },
+  {
+    "County": "NYAMIRA",
+    "Sub-County": "Borabu",
+    "Health_Facility_Name": "Kijauri Sub County Hospital",
+    "latitude": 32.8116871,
+    "longitude": -96.8338867
+  },
+  {
+    "County": "NYAMIRA",
+    "Sub-County": "Borabu",
+    "Health_Facility_Name": "Nyansiongo Nursing Home",
+    "latitude": -0.7622943,
+    "longitude": 35.0155666
+  },
+  {
+    "County": "NYAMIRA",
+    "Sub-County": "Borabu",
+    "Health_Facility_Name": "Amatierio Health Centre",
+    "latitude": 35.9116707,
+    "longitude": -79.0569278
+  },
+  {
+    "County": "NYAMIRA",
+    "Sub-County": "Borabu",
+    "Health_Facility_Name": "St. Joseph Nyansiongo Health Centre",
+    "latitude": -0.7593575,
+    "longitude": 35.0140324
+  },
+  {
+    "County": "NYAMIRA",
+    "Sub-County": "Borabu",
+    "Health_Facility_Name": "Kineni Dispensary",
+    "latitude": -0.7934925,
+    "longitude": 35.0487968
+  },
+  {
+    "County": "NYAMIRA",
+    "Sub-County": "Manga",
+    "Health_Facility_Name": "Manga District Hospital",
+    "latitude": 29.7110567,
+    "longitude": -95.3945559
+  },
+  {
+    "County": "NYAMIRA",
+    "Sub-County": "Manga",
+    "Health_Facility_Name": "Holsoms Nursing Home",
+    "latitude": 32.79903,
+    "longitude": -97.26901
+  },
+  {
+    "County": "NYAMIRA",
+    "Sub-County": "Manga",
+    "Health_Facility_Name": "Nyangena Sub District Hospital (Manga)",
+    "latitude": -0.6626589,
+    "longitude": 34.7490132
+  },
+  {
+    "County": "NYAMIRA",
+    "Sub-County": "Manga",
+    "Health_Facility_Name": "Getare Health Centre",
+    "latitude": 25.3742717,
+    "longitude": 51.4793899
+  },
+  {
+    "County": "NYAMIRA",
+    "Sub-County": "Masaba North",
+    "Health_Facility_Name": "Esani Sub-District Hospital",
+    "latitude": 29.3344958,
+    "longitude": -99.1344601
+  },
+  {
+    "County": "NYAMIRA",
+    "Sub-County": "Masaba North",
+    "Health_Facility_Name": "Gesima Sub-County Hospital",
+    "latitude": -0.6829336,
+    "longitude": 34.9424323
+  },
+  {
+    "County": "NYAMIRA",
+    "Sub-County": "Masaba North",
+    "Health_Facility_Name": "Masaba District Hospital",
+    "latitude": 47.4090531,
+    "longitude": -92.9301148
+  },
+  {
+    "County": "NYAMIRA",
+    "Sub-County": "Masaba North",
+    "Health_Facility_Name": "Magombo Health Centre",
+    "latitude": -0.699144,
+    "longitude": 34.9031507
+  },
+  {
+    "County": "NYAMIRA",
+    "Sub-County": "Nyamira South",
+    "Health_Facility_Name": "Nyamira County Refferal Hospital",
+    "latitude": -0.5577862,
+    "longitude": 34.9291949
+  },
+  {
+    "County": "NYAMIRA",
+    "Sub-County": "Nyamira South",
+    "Health_Facility_Name": "Oasis Maternity and Nursing Home",
+    "latitude": 31.704323,
+    "longitude": -106.3159822
+  },
+  {
+    "County": "NYAMIRA",
+    "Sub-County": "Nyamira South",
+    "Health_Facility_Name": "Kinara Hospital",
+    "latitude": 38.9075872,
+    "longitude": -77.0093769
+  },
+  {
+    "County": "NYAMIRA",
+    "Sub-County": "Nyamira South",
+    "Health_Facility_Name": "Ting'a Health Centre",
+    "latitude": 43.5330789,
+    "longitude": -80.2151021
+  },
+  {
+    "County": "NYAMIRA",
+    "Sub-County": "Nyamira South",
+    "Health_Facility_Name": "Nyamaiya Health Centre",
+    "latitude": -0.5213999,
+    "longitude": 34.9131088
+  },
+  {
+    "County": "NYAMIRA",
+    "Sub-County": "Nyamira South",
+    "Health_Facility_Name": "Nyamusi Sub-District Hospital",
+    "latitude": -0.4821687,
+    "longitude": 34.9720617
+  },
+  {
+    "County": "NYAMIRA",
+    "Sub-County": "Nyamira South",
+    "Health_Facility_Name": "Ekerenyo Sub-District Hospital",
+    "latitude": -0.5306225,
+    "longitude": 34.9878636
+  },
+  {
+    "County": "NYAMIRA",
+    "Sub-County": "Nyamira South",
+    "Health_Facility_Name": "Magwagwa Health Centre",
+    "latitude": -0.4829867,
+    "longitude": 35.0222208
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Kinangop",
+    "Health_Facility_Name": "JM Kariuki County Referral Hospital",
+    "latitude": -0.2561768,
+    "longitude": 36.3746935
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Kinangop",
+    "Health_Facility_Name": "The Pine Hospital",
+    "latitude": 30.0446965,
+    "longitude": -95.2293592
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Kinangop",
+    "Health_Facility_Name": "Bamboo Health Centre",
+    "latitude": 43.6536391,
+    "longitude": -79.3953402
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Kinangop",
+    "Health_Facility_Name": "Murungaru Health Centre",
+    "latitude": -0.6033146,
+    "longitude": 36.4975838
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Kinangop",
+    "Health_Facility_Name": "Old Mawingu Health Centre",
+    "latitude": -0.466667,
+    "longitude": 36.5
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Kinangop",
+    "Health_Facility_Name": "Karangatha Health Centre",
+    "latitude": -0.7712634,
+    "longitude": 36.6473519
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Kinangop",
+    "Health_Facility_Name": "Kahembe Health Centre",
+    "latitude": 0.0257546,
+    "longitude": 36.40131
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Kinangop",
+    "Health_Facility_Name": "Kiambogo Dispensary",
+    "latitude": -0.45,
+    "longitude": 36.25
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Kinangop",
+    "Health_Facility_Name": "Kaptain Dispensary",
+    "latitude": 34.0660917,
+    "longitude": -117.2857519
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Kinangop",
+    "Health_Facility_Name": "Nandarasi Dispensary",
+    "latitude": -0.549995,
+    "longitude": 36.554947
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Kinangop",
+    "Health_Facility_Name": "Olbolosat Dispensary",
+    "latitude": -0.1635952,
+    "longitude": 36.4445525
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Kinangop",
+    "Health_Facility_Name": "Mikaro Dispensary",
+    "latitude": -0.4830286,
+    "longitude": 36.5499952
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Kipipiri",
+    "Health_Facility_Name": "Njabini Health Centre",
+    "latitude": -0.7275516,
+    "longitude": 36.6539184
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Kipipiri",
+    "Health_Facility_Name": "Manunga Health Centre",
+    "latitude": -0.39093,
+    "longitude": 36.4971155
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Kipipiri",
+    "Health_Facility_Name": "Silibwet Health Centre",
+    "latitude": -0.7310954,
+    "longitude": 35.3437109
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Kipipiri",
+    "Health_Facility_Name": "Wanjohi Health Centre",
+    "latitude": 43.8591821,
+    "longitude": -79.3397417
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Kipipiri",
+    "Health_Facility_Name": "Kaimbaga Health Centre",
+    "latitude": -0.272699,
+    "longitude": 36.3775152
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Kipipiri",
+    "Health_Facility_Name": "Kianjogu Dispensary",
+    "latitude": -1.1939977,
+    "longitude": 36.7308063
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Kipipiri",
+    "Health_Facility_Name": "Kamiruri Dispensary",
+    "latitude": -0.1610731,
+    "longitude": 36.6586538
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Ndaragwa",
+    "Health_Facility_Name": "Ngano Health Centre",
+    "latitude": -0.1604486,
+    "longitude": 36.2851274
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Ndaragwa",
+    "Health_Facility_Name": "Ndaragwa Health Centre",
+    "latitude": -0.057705,
+    "longitude": 36.5317672
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Ndaragwa",
+    "Health_Facility_Name": "Shamata Health Centre",
+    "latitude": 46.3462667,
+    "longitude": -72.5464937
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Ndaragwa",
+    "Health_Facility_Name": "Chamuka Dispensary",
+    "latitude": -0.1272999,
+    "longitude": 36.3985044
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Ndaragwa",
+    "Health_Facility_Name": "Heni Health Centre",
+    "latitude": 42.54936,
+    "longitude": -83.0731324
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Ndaragwa",
+    "Health_Facility_Name": "Subuku Health centre",
+    "latitude": -0.1116603,
+    "longitude": 36.4593959
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Ndaragwa",
+    "Health_Facility_Name": "Gatimu Health centre",
+    "latitude": 43.6688283,
+    "longitude": -79.3789103
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Ndaragwa",
+    "Health_Facility_Name": "New Mawingu Health Centre",
+    "latitude": -0.272699,
+    "longitude": 36.3775152
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Ndaragwa",
+    "Health_Facility_Name": "Kiriogo Dispensary",
+    "latitude": -0.1273922,
+    "longitude": 36.6166467
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Ndaragwa",
+    "Health_Facility_Name": "Kirima Dispensary",
+    "latitude": -0.1942774,
+    "longitude": 36.4847267
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Ndaragwa",
+    "Health_Facility_Name": "Ndivai Dispensary",
+    "latitude": 34.2227215,
+    "longitude": -118.4978311
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Ndaragwa",
+    "Health_Facility_Name": "Rwanyambo Dispensary",
+    "latitude": -0.7995855,
+    "longitude": 36.6363811
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Ndaragwa",
+    "Health_Facility_Name": "Mbuyu Dispensary",
+    "latitude": 33.1971006,
+    "longitude": -96.6159463
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Oljoroorok",
+    "Health_Facility_Name": "Baari Health Centre",
+    "latitude": 43.6593428,
+    "longitude": -79.3655248
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Oljoroorok",
+    "Health_Facility_Name": "LeshauPondo Health centre",
+    "latitude": 0.0765663,
+    "longitude": 36.4566547
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Oljoroorok",
+    "Health_Facility_Name": "Turasha Dispensary",
+    "latitude": -0.4995675,
+    "longitude": 36.4528634
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Oljororok",
+    "Health_Facility_Name": "Ngorika Health Centre",
+    "latitude": -0.2566884,
+    "longitude": 36.2343633
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Oljororok",
+    "Health_Facility_Name": "Kasuku Health Centre",
+    "latitude": 41.1736543,
+    "longitude": -73.1969
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Oljororok",
+    "Health_Facility_Name": "Haraka Dispensary",
+    "latitude": 38.9113037,
+    "longitude": -94.3866089
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Olkalou",
+    "Health_Facility_Name": "North Kinangop Catholic Hospital",
+    "latitude": -0.5550152,
+    "longitude": 36.5540528
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Olkalou",
+    "Health_Facility_Name": "Geta Bush Health Centre",
+    "latitude": -0.4145157,
+    "longitude": 36.5839148
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Olkalou",
+    "Health_Facility_Name": "MirangineHealth Centre",
+    "latitude": -0.1773216,
+    "longitude": 36.2438918
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Olkalou",
+    "Health_Facility_Name": "Weru Health Centre",
+    "latitude": -7.84844,
+    "longitude": 35.49339
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Olkalou",
+    "Health_Facility_Name": "Ndemi Health Centre",
+    "latitude": -0.3304901,
+    "longitude": 36.4179736
+  },
+  {
+    "County": "NYANDARUA",
+    "Sub-County": "Olkalou",
+    "Health_Facility_Name": "Ndunyu njeru Dispensary",
+    "latitude": -0.5512813,
+    "longitude": 36.558939
+  },
+  {
+    "County": "NYERI",
+    "Sub-County": "Kieni East",
+    "Health_Facility_Name": "Narumoru health centre",
+    "latitude": -0.1663493,
+    "longitude": 37.0219201
+  },
+  {
+    "County": "NYERI",
+    "Sub-County": "Kieni East",
+    "Health_Facility_Name": "Island Farm HC",
+    "latitude": 48.4349283,
+    "longitude": -123.3622642
+  },
+  {
+    "County": "NYERI",
+    "Sub-County": "Kieni East",
+    "Health_Facility_Name": "Warazo HC",
+    "latitude": 42.5421876,
+    "longitude": -84.8355133
+  },
+  {
+    "County": "NYERI",
+    "Sub-County": "Kieni East",
+    "Health_Facility_Name": "Karemeno HC",
+    "latitude": -0.1234947,
+    "longitude": 36.7765641
+  },
+  {
+    "County": "NYERI",
+    "Sub-County": "Kieni West",
+    "Health_Facility_Name": "Mweiga health centre",
+    "latitude": -0.3306443,
+    "longitude": 36.9019726
+  },
+  {
+    "County": "NYERI",
+    "Sub-County": "Kieni West",
+    "Health_Facility_Name": "Bellevue Health Centre",
+    "latitude": 47.57562,
+    "longitude": -122.1405888
+  },
+  {
+    "County": "NYERI",
+    "Sub-County": "Kieni West",
+    "Health_Facility_Name": "Endarasha HC",
+    "latitude": -0.3078006,
+    "longitude": 36.7711774
+  },
+  {
+    "County": "NYERI",
+    "Sub-County": "Mathira East",
+    "Health_Facility_Name": "Karatina hosp",
+    "latitude": -0.475767,
+    "longitude": 37.130774
+  },
+  {
+    "County": "NYERI",
+    "Sub-County": "Mathira East",
+    "Health_Facility_Name": "Karindundu Dispessry",
+    "latitude": -0.4908605,
+    "longitude": 37.13122
+  },
+  {
+    "County": "NYERI",
+    "Sub-County": "Mathira West",
+    "Health_Facility_Name": "PCEA Tumutumu hosp",
+    "latitude": -0.4884726,
+    "longitude": 37.0801985
+  },
+  {
+    "County": "NYERI",
+    "Sub-County": "Mathira West",
+    "Health_Facility_Name": "Ngorano Health Centre",
+    "latitude": -0.4128866,
+    "longitude": 37.0649103
+  },
+  {
+    "County": "NYERI",
+    "Sub-County": "Mathira West",
+    "Health_Facility_Name": "Kaiyaba Dispensary",
+    "latitude": -0.4742842,
+    "longitude": 37.0867217
+  },
+  {
+    "County": "NYERI",
+    "Sub-County": "Mukurweini",
+    "Health_Facility_Name": "Mweru Health Centre",
+    "latitude": -9.3187607,
+    "longitude": 28.7492025
+  },
+  {
+    "County": "NYERI",
+    "Sub-County": "Mukurweini",
+    "Health_Facility_Name": "Thangathi HC",
+    "latitude": 42.5421876,
+    "longitude": -84.8355133
+  },
+  {
+    "County": "NYERI",
+    "Sub-County": "Nyeri Central",
+    "Health_Facility_Name": "Consolata Mathari hosp",
+    "latitude": -0.4138281,
+    "longitude": 36.9197116
+  },
+  {
+    "County": "NYERI",
+    "Sub-County": "Nyeri Central",
+    "Health_Facility_Name": "Outspan Hospital",
+    "latitude": -0.4238277,
+    "longitude": 36.9358206
+  },
+  {
+    "County": "NYERI",
+    "Sub-County": "Nyeri Central",
+    "Health_Facility_Name": "Mt Kenya hosp",
+    "latitude": -0.437099,
+    "longitude": 36.9580104
+  },
+  {
+    "County": "NYERI",
+    "Sub-County": "Nyeri Central",
+    "Health_Facility_Name": "Kiganjo Health centre",
+    "latitude": -0.9859046,
+    "longitude": 36.8313324
+  },
+  {
+    "County": "NYERI",
+    "Sub-County": "Nyeri Central",
+    "Health_Facility_Name": "Nyeri Town Health Centre",
+    "latitude": -0.423871,
+    "longitude": 36.9497788
+  },
+  {
+    "County": "NYERI",
+    "Sub-County": "Nyeri South",
+    "Health_Facility_Name": "Othaya level 6 hosp",
+    "latitude": -0.542176,
+    "longitude": 36.9415116
+  },
+  {
+    "County": "NYERI",
+    "Sub-County": "Nyeri South",
+    "Health_Facility_Name": "Othaya level IV hosp",
+    "latitude": -0.542176,
+    "longitude": 36.9415116
+  },
+  {
+    "County": "NYERI",
+    "Sub-County": "Nyeri South",
+    "Health_Facility_Name": "Gichiche HC",
+    "latitude": -0.4353587,
+    "longitude": 37.5907446
+  },
+  {
+    "County": "NYERI",
+    "Sub-County": "Tetu",
+    "Health_Facility_Name": "Wamagana Health Centre",
+    "latitude": -0.4769684,
+    "longitude": 36.9334458
+  },
+  {
+    "County": "NYERI",
+    "Sub-County": "Tetu",
+    "Health_Facility_Name": "Ihururu HC",
+    "latitude": -0.4110585,
+    "longitude": 36.8922847
+  },
+  {
+    "County": "NYERI",
+    "Sub-County": "Tetu",
+    "Health_Facility_Name": "Gichira HC",
+    "latitude": -0.4764315,
+    "longitude": 37.0239303
+  },
+  {
+    "County": "SAMBURU",
+    "Sub-County": "Samburu central",
+    "Health_Facility_Name": "Samburu county referral hospital",
+    "latitude": 1.098072,
+    "longitude": 36.6962386
+  },
+  {
+    "County": "SAMBURU",
+    "Sub-County": "Samburu East",
+    "Health_Facility_Name": "Wamba Health Center",
+    "latitude": 0.9783424,
+    "longitude": 37.3177925
+  },
+  {
+    "County": "SAMBURU",
+    "Sub-County": "Samburu East",
+    "Health_Facility_Name": "Archers Post Sub county Hospital",
+    "latitude": 0.6425354,
+    "longitude": 37.6532971
+  },
+  {
+    "County": "SAMBURU",
+    "Sub-County": "Samburu North",
+    "Health_Facility_Name": "Baragoi Sub county hospital,",
+    "latitude": 1.7851169,
+    "longitude": 36.7873365
+  },
+  {
+    "County": "SIAYA COUNTY",
+    "Sub-County": "Alego Usonga Sub County",
+    "Health_Facility_Name": "Rwambwa Sub County Hospital",
+    "latitude": 0.0695769,
+    "longitude": 34.097547
+  },
+  {
+    "County": "SIAYA COUNTY",
+    "Sub-County": "Bondo Sub County",
+    "Health_Facility_Name": "Got Agulu Sub County Hospital",
+    "latitude": -0.0410272,
+    "longitude": 34.0334659
+  },
+  {
+    "County": "SIAYA COUNTY",
+    "Sub-County": "Gem Sub County",
+    "Health_Facility_Name": "Sagam Hospital",
+    "latitude": 0.056178,
+    "longitude": 34.5422811
+  },
+  {
+    "County": "SIAYA COUNTY",
+    "Sub-County": "Rarieda Sub County",
+    "Health_Facility_Name": "Madiany Sub County Hospital",
+    "latitude": -0.332918,
+    "longitude": 34.3199316
+  },
+  {
+    "County": "SIAYA COUNTY",
+    "Sub-County": "Ugunja Sub County",
+    "Health_Facility_Name": "Ambira- Sub County Hospital",
+    "latitude": 0.1687429,
+    "longitude": 34.2419815
+  },
+  {
+    "County": "SIAYA COUNTY",
+    "Sub-County": "Alego Usonga sub County",
+    "Health_Facility_Name": "Siaya ounty Referral Hospital",
+    "latitude": 0.0635498,
+    "longitude": 34.2870057
+  },
+  {
+    "County": "SIAYA COUNTY",
+    "Sub-County": "Bondo Sub County",
+    "Health_Facility_Name": "Bondo Sub County Hospital",
+    "latitude": -0.0941536,
+    "longitude": 34.2745763
+  },
+  {
+    "County": "SIAYA COUNTY",
+    "Sub-County": "Bonds Sub County",
+    "Health_Facility_Name": "Uyawi Sub County Hospital",
+    "latitude": 30.2839051,
+    "longitude": -95.4775991
+  },
+  {
+    "County": "SIAYA COUNTY",
+    "Sub-County": "Gem Sub County",
+    "Health_Facility_Name": "Yala Sub County Hospital",
+    "latitude": 0.1008821,
+    "longitude": 34.537836
+  },
+  {
+    "County": "SIAYA COUNTY",
+    "Sub-County": "Gem Sub County",
+    "Health_Facility_Name": "Inuka hospital",
+    "latitude": -0.0986546,
+    "longitude": 34.751978
+  },
+  {
+    "County": "SIAYA COUNTY",
+    "Sub-County": "Rarieda Sub County",
+    "Health_Facility_Name": "Lwak Mission H/C",
+    "latitude": -0.140612,
+    "longitude": 34.357236
+  },
+  {
+    "County": "SIAYA COUNTY",
+    "Sub-County": "Ugenya Sub County",
+    "Health_Facility_Name": "Ukwala Sub County Hospital",
+    "latitude": 0.1953756,
+    "longitude": 34.1893473
+  },
+  {
+    "County": "SIAYA COUNTY",
+    "Sub-County": "Ugunja Sub County",
+    "Health_Facility_Name": "Sigomere Sub County Hospital",
+    "latitude": 0.2013108,
+    "longitude": 34.3617482
+  },
+  {
+    "County": "TAITA TAVETA",
+    "Sub-County": "Mwatate",
+    "Health_Facility_Name": "Mwatate Sub County Hoapital",
+    "latitude": -3.5074089,
+    "longitude": 38.3685488
+  },
+  {
+    "County": "TAITA TAVETA",
+    "Sub-County": "Taita Wundanyi",
+    "Health_Facility_Name": "Wundanyi Health Centre",
+    "latitude": -3.4028183,
+    "longitude": 38.36302
+  },
+  {
+    "County": "TAITA TAVETA",
+    "Sub-County": "Taita/Wundanyi",
+    "Health_Facility_Name": "Wesu Sub County Hospital",
+    "latitude": 38.6755977,
+    "longitude": -90.4680846
+  },
+  {
+    "County": "TAITA TAVETA",
+    "Sub-County": "Taveta",
+    "Health_Facility_Name": "Taveta Sub County Hospital",
+    "latitude": -3.3932599,
+    "longitude": 37.6773723
+  },
+  {
+    "County": "TAITA TAVETA",
+    "Sub-County": "Voi",
+    "Health_Facility_Name": "Moi County Refferral Hospotal",
+    "latitude": -3.3893256,
+    "longitude": 38.5595514
+  },
+  {
+    "County": "TANA RIVER\nCOUNTY",
+    "Sub-County": "",
+    "Health_Facility_Name": "Hola county Referral Hospital",
+    "latitude": -1.4979956,
+    "longitude": 40.029631
+  },
+  {
+    "County": "TANA RIVER\nCOUNTY",
+    "Sub-County": "Tana Delta sub County",
+    "Health_Facility_Name": "Ngao sub county hospital",
+    "latitude": 41.4314343,
+    "longitude": -71.4966243
+  },
+  {
+    "County": "TANA RIVER\nCOUNTY",
+    "Sub-County": "Tana North sub county",
+    "Health_Facility_Name": "Bura Sub County hospital",
+    "latitude": 37.6604402,
+    "longitude": -91.5692851
+  },
+  {
+    "County": "THARAKA NITHI",
+    "Sub-County": "Chuka",
+    "Health_Facility_Name": "Chuka county referral hospital",
+    "latitude": -0.3295381,
+    "longitude": 37.6557389
+  },
+  {
+    "County": "THARAKA NITHI",
+    "Sub-County": "Igambang’ombe",
+    "Health_Facility_Name": "Komarock Morden Hospital",
+    "latitude": -1.2750923,
+    "longitude": 36.9752569
+  },
+  {
+    "County": "THARAKA NITHI",
+    "Sub-County": "Igambang’ombe",
+    "Health_Facility_Name": "Kajuki Hospital",
+    "latitude": -0.3356236,
+    "longitude": 37.8311698
+  },
+  {
+    "County": "THARAKA NITHI",
+    "Sub-County": "Muthambi",
+    "Health_Facility_Name": "Muthambi Health Centre",
+    "latitude": -0.2746504,
+    "longitude": 37.6605082
+  },
+  {
+    "County": "THARAKA NITHI",
+    "Sub-County": "Mwimbi",
+    "Health_Facility_Name": "PCEA Chogoria hospital",
+    "latitude": -0.23052,
+    "longitude": 37.6281102
+  },
+  {
+    "County": "THARAKA NITHI",
+    "Sub-County": "Mwimbi",
+    "Health_Facility_Name": "Magutuni Hospital",
+    "latitude": -0.2250375,
+    "longitude": 37.7363132
+  },
+  {
+    "County": "THARAKA NITHI",
+    "Sub-County": "Tharaka North",
+    "Health_Facility_Name": "Gatunga Model Health centre",
+    "latitude": -0.1025549,
+    "longitude": 38.0155975
+  },
+  {
+    "County": "THARAKA NITHI",
+    "Sub-County": "Tharaka South",
+    "Health_Facility_Name": "Marimanti Hospital",
+    "latitude": -0.1582787,
+    "longitude": 37.9752247
+  },
+  {
+    "County": "THARAKA NITHI",
+    "Sub-County": "Tharaka South",
+    "Health_Facility_Name": "Kibung’a Hospital",
+    "latitude": -2.166083,
+    "longitude": 30.5390634
+  },
+  {
+    "County": "THARAKA NITHI",
+    "Sub-County": "Tharaka south",
+    "Health_Facility_Name": "St. Orsola Hospital",
+    "latitude": 44.4912163,
+    "longitude": 11.3615273
+  },
+  {
+    "County": "TRANS NZOIA",
+    "Sub-County": "cherangany Subcounty",
+    "Health_Facility_Name": "Kapsara subcounty hospital",
+    "latitude": 1.1208868,
+    "longitude": 35.1653759
+  },
+  {
+    "County": "TRANS NZOIA",
+    "Sub-County": "Cherangany Subcounty",
+    "Health_Facility_Name": "Cherangany Subcounty hospital",
+    "latitude": 0.9783536,
+    "longitude": 35.2202415
+  },
+  {
+    "County": "TRANS NZOIA",
+    "Sub-County": "cherangany Subcounty",
+    "Health_Facility_Name": "Kaplamai health center",
+    "latitude": 0.9874332,
+    "longitude": 35.1218963
+  },
+  {
+    "County": "TRANS NZOIA",
+    "Sub-County": "Endebbess subcount",
+    "Health_Facility_Name": "Endebbess subcounty hospital",
+    "latitude": 1.0784056,
+    "longitude": 34.8565872
+  },
+  {
+    "County": "TRANS NZOIA",
+    "Sub-County": "Kiminini subcounty",
+    "Health_Facility_Name": "Matunda subcounty hospital",
+    "latitude": 0.8255876,
+    "longitude": 35.1155126
+  },
+  {
+    "County": "TRANS NZOIA",
+    "Sub-County": "Kiminini subcounty",
+    "Health_Facility_Name": "Kitale County referral hospital",
+    "latitude": 1.0161503,
+    "longitude": 35.0088777
+  },
+  {
+    "County": "TRANS NZOIA",
+    "Sub-County": "kwanza subcounty",
+    "Health_Facility_Name": "Kwanza subcounty hospital",
+    "latitude": 1.1627353,
+    "longitude": 34.9984455
+  },
+  {
+    "County": "TRANS NZOIA",
+    "Sub-County": "kwanza subcounty",
+    "Health_Facility_Name": "Kapsitwet Health Centre",
+    "latitude": 1.0971201,
+    "longitude": 34.9668539
+  },
+  {
+    "County": "TRANS NZOIA",
+    "Sub-County": "kwanza subcounty",
+    "Health_Facility_Name": "Kapkoi Health Centre",
+    "latitude": 0.5398639,
+    "longitude": 35.4946236
+  },
+  {
+    "County": "TRANS NZOIA",
+    "Sub-County": "Saboti subcounty",
+    "Health_Facility_Name": "Saboti subcounty hosp",
+    "latitude": 43.6609086,
+    "longitude": -79.3959518
+  },
+  {
+    "County": "TRANS NZOIA",
+    "Sub-County": "Saboti Subcounty",
+    "Health_Facility_Name": "GK farm prison health center",
+    "latitude": 35.7557078,
+    "longitude": -95.554358
+  },
+  {
+    "County": "TRANS NZOIA",
+    "Sub-County": "Saboti Subcounty",
+    "Health_Facility_Name": "Bondeni health center",
+    "latitude": 39.809223,
+    "longitude": -89.6554137
+  },
+  {
+    "County": "TRANS NZOIA",
+    "Sub-County": "Saboti Subcounty",
+    "Health_Facility_Name": "Lukhome health center",
+    "latitude": 42.5650219,
+    "longitude": -71.8451576
+  },
+  {
+    "County": "TRANS NZOIA",
+    "Sub-County": "Saboti Subcounty",
+    "Health_Facility_Name": "Tom mboya health center",
+    "latitude": 1.0297042,
+    "longitude": 34.9958413
+  },
+  {
+    "County": "TURKANA",
+    "Sub-County": "Kibish",
+    "Health_Facility_Name": "Kaikor Sub County Hospital",
+    "latitude": 38.6755977,
+    "longitude": -90.4680846
+  },
+  {
+    "County": "TURKANA",
+    "Sub-County": "Loima",
+    "Health_Facility_Name": "Lorugum Sub County Hospital",
+    "latitude": 2.8890326,
+    "longitude": 35.2675355
+  },
+  {
+    "County": "TURKANA",
+    "Sub-County": "Turkana Central",
+    "Health_Facility_Name": "Lodwar County Referral Hospital",
+    "latitude": 3.1224343,
+    "longitude": 35.601158
+  },
+  {
+    "County": "TURKANA",
+    "Sub-County": "Turkana Central",
+    "Health_Facility_Name": "Kanamkemer Sub County Hospital",
+    "latitude": 3.1011275,
+    "longitude": 35.601344
+  },
+  {
+    "County": "TURKANA",
+    "Sub-County": "Turkana East",
+    "Health_Facility_Name": "Lokori Sub County Hospital",
+    "latitude": 32.8107052,
+    "longitude": -96.8385386
+  },
+  {
+    "County": "TURKANA",
+    "Sub-County": "Turkana East",
+    "Health_Facility_Name": "Elelea Sub County Hospital",
+    "latitude": 41.8727197,
+    "longitude": -87.6737256
+  },
+  {
+    "County": "TURKANA",
+    "Sub-County": "Turkana East",
+    "Health_Facility_Name": "Kapedo Sub County Hospital",
+    "latitude": 1.179508,
+    "longitude": 36.1057185
+  },
+  {
+    "County": "TURKANA",
+    "Sub-County": "Turkana North",
+    "Health_Facility_Name": "Lokitaung Sub County Hospital",
+    "latitude": 4.2758,
+    "longitude": 35.7461477
+  },
+  {
+    "County": "TURKANA",
+    "Sub-County": "Turkana South",
+    "Health_Facility_Name": "Katilu Sub County Hospital",
+    "latitude": 37.09024,
+    "longitude": -95.712891
+  },
+  {
+    "County": "TURKANA",
+    "Sub-County": "Turkana West",
+    "Health_Facility_Name": "Ammusait General Hospital",
+    "latitude": 42.3626109,
+    "longitude": -71.067566
+  },
+  {
+    "County": "TURKANA",
+    "Sub-County": "Turkana West",
+    "Health_Facility_Name": "Kakuma Mission Hospital",
+    "latitude": 3.7117861,
+    "longitude": 34.8614195
+  },
+  {
+    "County": "TURKANA",
+    "Sub-County": "Turkana West",
+    "Health_Facility_Name": "Kakuma Sub County Hospital",
+    "latitude": 3.7117861,
+    "longitude": 34.8614195
+  },
+  {
+    "County": "TURKANA",
+    "Sub-County": "Turkana West",
+    "Health_Facility_Name": "Lopiding Sub County Hospital",
+    "latitude": 4.2024769,
+    "longitude": 34.3836773
+  },
+  {
+    "County": "TURKANA",
+    "Sub-County": "Turkana South",
+    "Health_Facility_Name": "Lokichar Sub County Hospital",
+    "latitude": 2.383763,
+    "longitude": 35.6478189
+  },
+  {
+    "County": "UASIN GISHU",
+    "Sub-County": "Ainabkoi",
+    "Health_Facility_Name": "Moi Teaching and Referral Hospital",
+    "latitude": 0.5116629,
+    "longitude": 35.280477
+  },
+  {
+    "County": "UASIN GISHU",
+    "Sub-County": "Ainabkoi",
+    "Health_Facility_Name": "Eldoret Hospital",
+    "latitude": 0.5165734,
+    "longitude": 35.2794755
+  },
+  {
+    "County": "UASIN GISHU",
+    "Sub-County": "Ainabkoi",
+    "Health_Facility_Name": "Mediheal Hospital",
+    "latitude": -1.262303,
+    "longitude": 36.8226364
+  },
+  {
+    "County": "UASIN GISHU",
+    "Sub-County": "Ainabkoi",
+    "Health_Facility_Name": "Kapsoya Health Centre",
+    "latitude": 0.5138936,
+    "longitude": 35.2994461
+  },
+  {
+    "County": "UASIN GISHU",
+    "Sub-County": "Ainabkoi",
+    "Health_Facility_Name": "Burnt Forest Sub-County Hospital",
+    "latitude": 0.2144427,
+    "longitude": 35.4362549
+  },
+  {
+    "County": "UASIN GISHU",
+    "Sub-County": "Kapseret",
+    "Health_Facility_Name": "Kapteldon Sub-County Hospital",
+    "latitude": 37.7626459,
+    "longitude": -122.4587106
+  },
+  {
+    "County": "UASIN GISHU",
+    "Sub-County": "Kapseret",
+    "Health_Facility_Name": "Kaplelach Chepyakwai Hospital",
+    "latitude": 0.3862704,
+    "longitude": 35.2412881
+  },
+  {
+    "County": "UASIN GISHU",
+    "Sub-County": "Kesses",
+    "Health_Facility_Name": "Chepkigen Dispensary",
+    "latitude": 0.3973577,
+    "longitude": 35.3262581
+  },
+  {
+    "County": "UASIN GISHU",
+    "Sub-County": "Kesses",
+    "Health_Facility_Name": "Kesses Sub-County Hospital",
+    "latitude": 0.2981842,
+    "longitude": 35.3137005
+  },
+  {
+    "County": "UASIN GISHU",
+    "Sub-County": "Moiben",
+    "Health_Facility_Name": "Moiben Sub-County Hospital",
+    "latitude": 0.8154814,
+    "longitude": 35.3838472
+  },
+  {
+    "County": "UASIN GISHU",
+    "Sub-County": "Moiben",
+    "Health_Facility_Name": "Kimumu Dispensary",
+    "latitude": 0.5565981,
+    "longitude": 35.3082117
+  },
+  {
+    "County": "UASIN GISHU",
+    "Sub-County": "Moiben",
+    "Health_Facility_Name": "Uasin Gishu District Hospital",
+    "latitude": 0.5180417,
+    "longitude": 35.27673
+  },
+  {
+    "County": "UASIN GISHU",
+    "Sub-County": "Soy",
+    "Health_Facility_Name": "Moi's Bridge Health Centre",
+    "latitude": 0.8766986,
+    "longitude": 35.1200016
+  },
+  {
+    "County": "UASIN GISHU",
+    "Sub-County": "Soy",
+    "Health_Facility_Name": "Ziwa Sub-County Hospital",
+    "latitude": 0.8474855,
+    "longitude": 35.2591459
+  },
+  {
+    "County": "UASIN GISHU",
+    "Sub-County": "Turbo",
+    "Health_Facility_Name": "Huruma Sub-County Hospital",
+    "latitude": 43.6609086,
+    "longitude": -79.3959518
+  },
+  {
+    "County": "UASIN GISHU",
+    "Sub-County": "Turbo",
+    "Health_Facility_Name": "Turbo Sub-County Hospital",
+    "latitude": 0.6342241,
+    "longitude": 35.0470761
+  },
+  {
+    "County": "VIHIGA",
+    "Sub-County": "Emuhaya",
+    "Health_Facility_Name": "Emusire Health Centre",
+    "latitude": 0.0841516,
+    "longitude": 34.6062255
+  },
+  {
+    "County": "VIHIGA",
+    "Sub-County": "Emuhaya",
+    "Health_Facility_Name": "Ebusiratsi Health Centre",
+    "latitude": 0.079329,
+    "longitude": 34.6342921
+  },
+  {
+    "County": "VIHIGA",
+    "Sub-County": "Hamisi",
+    "Health_Facility_Name": "Hamisi Sub-County Hospital",
+    "latitude": 0.0747615,
+    "longitude": 34.787888
+  },
+  {
+    "County": "VIHIGA",
+    "Sub-County": "Hamisi",
+    "Health_Facility_Name": "Jumuiya Hospital Kaimosi",
+    "latitude": 0.1258498,
+    "longitude": 34.8455312
+  },
+  {
+    "County": "VIHIGA",
+    "Sub-County": "Hamisi",
+    "Health_Facility_Name": "Serem Health Centre",
+    "latitude": 0.0776258,
+    "longitude": 34.8560759
+  },
+  {
+    "County": "VIHIGA",
+    "Sub-County": "Hamisi",
+    "Health_Facility_Name": "Shiru Health Centre",
+    "latitude": 43.1848289,
+    "longitude": -79.2303994
+  },
+  {
+    "County": "VIHIGA",
+    "Sub-County": "Luanda",
+    "Health_Facility_Name": "Emuhaya Sub-County Hospital",
+    "latitude": 0.0358397,
+    "longitude": 34.6264333
+  },
+  {
+    "County": "VIHIGA",
+    "Sub-County": "Luanda",
+    "Health_Facility_Name": "Coptic Nursing Home Maseno",
+    "latitude": -0.0052399,
+    "longitude": 34.6010316
+  },
+  {
+    "County": "VIHIGA",
+    "Sub-County": "Luanda",
+    "Health_Facility_Name": "Luanda township",
+    "latitude": -8.8146556,
+    "longitude": 13.2301756
+  },
+  {
+    "County": "VIHIGA",
+    "Sub-County": "Luanda",
+    "Health_Facility_Name": "Ekwanda Health Centre",
+    "latitude": -0.0140548,
+    "longitude": 34.5713997
+  },
+  {
+    "County": "VIHIGA",
+    "Sub-County": "Sabatia",
+    "Health_Facility_Name": "Sabatia health Centre",
+    "latitude": 39.717277,
+    "longitude": -82.5777536
+  },
+  {
+    "County": "VIHIGA",
+    "Sub-County": "Sabatia",
+    "Health_Facility_Name": "Itando Nursing Home",
+    "latitude": 40.337747,
+    "longitude": -74.452774
+  },
+  {
+    "County": "VIHIGA",
+    "Sub-County": "Sabatia",
+    "Health_Facility_Name": "Kegondi",
+    "latitude": 0.1363464,
+    "longitude": 34.7215859
+  },
+  {
+    "County": "VIHIGA",
+    "Sub-County": "Sabatia",
+    "Health_Facility_Name": "Bugina",
+    "latitude": 49.8607291,
+    "longitude": -74.291871
+  },
+  {
+    "County": "VIHIGA",
+    "Sub-County": "Vihiga",
+    "Health_Facility_Name": "Vihiga County Referral Hospital",
+    "latitude": 0.0790657,
+    "longitude": 34.7223869
+  },
+  {
+    "County": "WAJIR",
+    "Sub-County": "Eldas Sub county",
+    "Health_Facility_Name": "Eldas Sub county hospital",
+    "latitude": 40.1991081,
+    "longitude": -74.0289764
+  },
+  {
+    "County": "WAJIR",
+    "Sub-County": "Tarbaj sub county",
+    "Health_Facility_Name": "Tarbaj sub county hospital",
+    "latitude": 2.207131,
+    "longitude": 40.1171111
+  },
+  {
+    "County": "WAJIR",
+    "Sub-County": "Wajir",
+    "Health_Facility_Name": "Wajir referral hospital",
+    "latitude": 1.7477879,
+    "longitude": 40.0627493
+  },
+  {
+    "County": "WAJIR",
+    "Sub-County": "Wajir North sub county",
+    "Health_Facility_Name": "Wajir North sub county hospital",
+    "latitude": 1.7365803,
+    "longitude": 40.054659
+  },
+  {
+    "County": "WAJIR",
+    "Sub-County": "Wajir South sub county",
+    "Health_Facility_Name": "Wajir South sub county hospital",
+    "latitude": 1.7488388,
+    "longitude": 40.058633
+  },
+  {
+    "County": "WAJIR",
+    "Sub-County": "Wajir west sub county",
+    "Health_Facility_Name": "Wajir west sub county hospital",
+    "latitude": 41.5663888,
+    "longitude": -87.696602
+  },
+  {
+    "County": "WEST POKOT",
+    "Sub-County": "pokot central",
+    "Health_Facility_Name": "Sigor sub county hospital",
+    "latitude": 40.7463691,
+    "longitude": -73.9731773
+  },
+  {
+    "County": "WEST POKOT",
+    "Sub-County": "Pokot North",
+    "Health_Facility_Name": "Kacheliba subcounty hospital",
+    "latitude": 43.6609086,
+    "longitude": -79.3959518
+  },
+  {
+    "County": "WEST POKOT",
+    "Sub-County": "Pokot North",
+    "Health_Facility_Name": "Alale Health Centre",
+    "latitude": 2.2502198,
+    "longitude": 35.0276558
+  },
+  {
+    "County": "WEST POKOT",
+    "Sub-County": "Pokot South",
+    "Health_Facility_Name": "Kapenguria county referral hospital",
+    "latitude": 1.2376174,
+    "longitude": 35.1213017
+  },
+  {
+    "County": "WEST POKOT",
+    "Sub-County": "Pokot South",
+    "Health_Facility_Name": "Chepareria sub county hospital",
+    "latitude": 1.3004268,
+    "longitude": 35.1993065
+  },
+  {
+    "County": "WEST POKOT",
+    "Sub-County": "Pokot South",
+    "Health_Facility_Name": "Ortum mission hospital",
+    "latitude": 1.4364194,
+    "longitude": 35.3552542
+  },
+  {
+    "County": "WEST POKOT",
+    "Sub-County": "Pokot South",
+    "Health_Facility_Name": "Kabichbich Health Centre",
+    "latitude": 1.2099384,
+    "longitude": 35.2771221
+  }
+]
