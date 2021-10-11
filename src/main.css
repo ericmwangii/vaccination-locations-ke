@@ -8,7 +8,9 @@ body {
 #map {
   height: 100%;
   width: auto;
+  overflow: hidden;
 }
+
 #tooltip {
   position: absolute;
   background: #0f1114;
@@ -18,4 +20,28 @@ body {
   -moz-box-shadow: 3px 3px 5px 6px #000000;
   -webkit-box-shadow: 3px 3px 5px 6px #000000;
   box-shadow: 3px 3px 5px 6px #000000;
+}
+
+@media only screen and (min-width: 768px) {
+  #map {
+    height: 100%;
+    width: auto;
+    overflow: hidden;
+  }
+}
+
+@media only screen and (min-width: 1080px) {
+  #map {
+    height: 100%;
+    width: auto;
+    overflow: hidden;
+  }
+}
+
+@media only screen and (min-width: 1450px) {
+  #map {
+    height: 100%;
+    width: auto;
+    overflow: hidden;
+  }
 }

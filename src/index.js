@@ -1,5 +1,4 @@
 import { GoogleMapsOverlay } from "@deck.gl/google-maps";
-import { HexagonLayer, HeatmapLayer } from "@deck.gl/aggregation-layers";
 import { ScatterplotLayer } from "@deck.gl/layers";
 import data from "./locations.json";
 import "./main.css";
@@ -41,12 +40,4 @@ const plot = () =>
         el.style.opacity = 0.0;
       }
     },
-  });
-
-const heatmap = () =>
-  new HeatmapLayer({
-    id: "heat",
-    data: data,
-    getPosition: (d) => [d.longitude, d.latitude],
-    radiusPixels: 60,
   });
