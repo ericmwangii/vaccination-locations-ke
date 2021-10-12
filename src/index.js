@@ -40,4 +40,18 @@ const plot = () =>
         el.style.opacity = 0.0;
       }
     },
+    onClick: ({ object, x, y }) => {
+      const el = document.getElementById("tooltip");
+      if (object) {
+        const { Health_Facility_Name } = object;
+        el.innerHTML = `<h3>${Health_Facility_Name}</h3>`;
+        el.style.display = "block";
+        el.style.color = "white";
+        el.style.opacity = 0.9;
+        el.style.left = x + "px";
+        el.style.top = y + "px";
+      } else {
+        el.style.opacity = 0.0;
+      }
+    },
   });
